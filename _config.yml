@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gu"
+title                    : "Lei Gu | Visiting Researcher at NVIDIA"
 title_separator          : "-"
 name                     : &name "Lei Gu"
 description              : &description "Visiting Researcher at NVIDIA"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lei Gu (顾磊)"
   avatar           : "profile.png"
-  bio              : "Visiting Researcher at NVIDIA"
+  bio              : # "Visiting Researcher at NVIDIA"
   location         : "Santa Clara, CA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
