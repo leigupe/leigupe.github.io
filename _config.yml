@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gu (顾磊)"
+title                    : "Lei Gu"
 title_separator          : "-"
 name                     : &name "Lei Gu"
 description              : &description "Visiting Researcher at NVIDIA"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lei Gu"
+  name             : "Lei Gu (顾磊)"
   avatar           : "profile.png"
   bio              : "Visiting Researcher at NVIDIA"
   location         : "Santa Clara, CA"
