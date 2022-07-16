@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lei Gu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Visiting Researcher at NVIDIA"
   location         : "Santa Clara, CA"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sJf1iI8AAAAJ&hl=en"
-  email            :
+  email            : "leigupe@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/leigusu"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
