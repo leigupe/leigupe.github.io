@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gu, Ph.D."
+title                    : "Lei Gu (顾磊)"
 title_separator          : "-"
 name                     : &name "Lei Gu"
 description              : &description "Visiting Researcher at NVIDIA"
