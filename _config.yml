@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lei Gu | Visiting Researcher at NVIDIA"
 title_separator          : "-"
 name                     : &name "Lei Gu"
-description              : &description "Visiting Researcher at NVIDIA; Assistant Professor at Penn"
+description              : &description "Visiting Researcher at NVIDIA"
 url                      : https://leigupe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpatßh of your site, e.g. "/blog"
 repository               : "leigupe.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lei Gu (顾磊)"
   avatar           : "profile.png"
-  bio              : "Visiting Researcher at NVIDIA"
+  bio              : "Visiting Researcher at NVIDIA; Assistant Professor at Penn"
   location         : "Santa Clara, CA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
