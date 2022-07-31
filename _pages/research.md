@@ -15,7 +15,7 @@ Wireless Power Transfer for EV Charging
 ------
 EVs are becoming significantly less costly to own than gasoline vehicles, driven by decreasing battery costs, reduced maintenance, and much higher drive-train efficiencies. 
 However, the transition to an electric fleet to fight climate change faces significant remaining hurdles, one of which is the need for a reliable and widespread charging infrastructure. 
-My postdoctoral research aims to facilitate the transition to electric transportation by developing cost-effective wireless charging technology. 
+My postdoctoral research aims to facilitate the transition to electric transportation by developing cost-effective wireless charging technology \[Gu TPEL'21, Gu WPTC'21\]. 
 Compared to wired charging, inductive wireless power transfer (WPT) is more convenient and can improve the utilization of the future fleet of electric cars, scooters, and autonomous passenger vehicles. 
 In addition, widely deployed WPT systems can reduce the onboard battery size, further reducing EVs’ cost and weight.
 
@@ -24,7 +24,7 @@ High-Power (0.1-10 kW) Radio-Frequency (3-300 MHz) RF Plasma Generators
 RF Plasma generators are becoming an increasingly important technology in the upcoming decade with their indispensable role in information technology infrastructure (semiconductor processing equipment) and solutions addressing climate change, such as plasma-catalyzed zero-carbon fertilizer and nuclear fusion energy. 
 However, building high-performance RF plasma generators is hugely challenging as plasma loads are highly nonlinear and variable depending on the operating conditions. 
 Current plasma driving systems have inefficient PAs and utilize mechanically-controlled matching networks to handle the nonlinear plasma load, making the entire driver bulky, slow in response, and energy-consuming. 
-The emerging WBG power devices hold enormous promise in realizing solid-state multi-kilowatt plasma drivers that can be orders of magnitude more compact, efficient, and faster than current technologies.
+The emerging WBG power devices hold enormous promise in realizing solid-state multi-kilowatt plasma drivers that can be orders of magnitude more compact, efficient, and faster than current technologies \[Tong TIE'22, Xu TPEL'20\].
 
 Miniaturized Power Electronics for Medical Applications
 ------
@@ -32,5 +32,5 @@ Compared to consumer applications, medical equipment like diagnostic X-ray and m
 For example, a computed tomography (CT) scanner typically uses high voltage ($\sim$140 kV) to generate X-rays. 
 It takes images from different angles around patients' bodies to create cross-sectional images (slices) of the bones, blood vessels, and soft tissues. 
 Unfortunately, the current bulky and heavy high-voltage power supplies are among the technology bottlenecks that limit the rotation speed, gantry size, and power consumption of existing scanners.
-Part of my doctoral research studied methods of building compact high-voltage converters that can lead to more portable diagnostic X-ray devices for point-of-care medicine. 
-Another example of my efforts in improving medical power technologies is the work on this ultra-compact high-intensity focused ultrasound (HIFU) system for cancer therapy.
+Part of my doctoral research studied methods of building compact high-voltage converters that can lead to more portable diagnostic X-ray devices for point-of-care medicine \[Park COMPEL'19, Park APEC'18\]. 
+Another example of my efforts in improving medical power technologies is the work on this ultra-compact high-intensity focused ultrasound (HIFU) system for cancer therapy \[Gu COMPEL'19, Stedman IUS'19\]. 
