@@ -29,7 +29,7 @@ The emerging WBG power devices hold enormous promise in realizing solid-state mu
 Miniaturized Power Electronics for Medical Applications
 ------
 Compared to consumer applications, medical equipment like diagnostic X-ray and magnetic resonance imaging (MRI) often require power electronics with significantly more challenging specifications (higher voltage, frequency, or power) other than common dc-dc power management. 
-For example, a computed tomography (CT) scanner typically uses high voltage ($\sim$140 kV) to generate X-rays. 
+For example, a computed tomography (CT) scanner typically uses high voltage (~140 kV) to generate X-rays. 
 It takes images from different angles around patients' bodies to create cross-sectional images (slices) of the bones, blood vessels, and soft tissues. 
 Unfortunately, the current bulky and heavy high-voltage power supplies are among the technology bottlenecks that limit the rotation speed, gantry size, and power consumption of existing scanners.
 Part of my doctoral research studied methods of building compact high-voltage converters that can lead to more portable diagnostic X-ray devices for point-of-care medicine \[[Park COMPEL'19](https://ieeexplore.ieee.org/document/8769612), [Park APEC'18](https://ieeexplore.ieee.org/document/8341327)\]. 
