@@ -12,5 +12,4 @@ Hi! I am a visiting researcher in the circuits group at [NVIDIA Research](https:
 
 I will join the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania as an Assistant Professor in January 2023. My lab will focus on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. [Here](https://leigupe.github.io/research/) highlights some of my past research. I will be taking new graduate students in the foreseeable future (next few years). If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and feel free to mention my name in your application. Thanks for your interest!
 
-[Opening for 2023 Fall](https://leigupe.github.io/research/files/opening.pdf)
-------
+[Opening for 2023 Fall](https://leigupe.github.io/files/opening.pdf)
