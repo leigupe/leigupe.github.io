@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gu | Visiting Researcher at NVIDIA"
+title                    : "Lei Gu | Assistant Professor @ Penn Engineering"
 title_separator          : "-"
 name                     : &name "Lei Gu"
 description              : &description "- Homepage"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lei Gu (顾磊)"
   avatar           : "profile.png"
-  bio              : "Visiting Researcher at NVIDIA"
-  location         : "Santa Clara, CA"
+  bio              : "Assistant Professor, Penn Engineering"
+  location         : "Philadelphia, PA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sJf1iI8AAAAJ&hl=en"
