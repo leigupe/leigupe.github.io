@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=sJf1iI8AAAAJ&hl=en"
 
-  - title: "Group"
-    url: /group/    
+  # - title: "Group"
+  #   url: /group/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
