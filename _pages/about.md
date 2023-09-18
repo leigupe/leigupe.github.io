@@ -1,11 +1,10 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /Bio/
-  - /about.html
+  - /about
 ---
 
 Hi! I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in [power electronics](https://en.wikipedia.org/wiki/Power_electronics) circuits and components and how to design and optimize power conversion systems for applications, such as high-performance computing, renewable energy, and medical devices. I was an visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. from the [Electrical Engineering Department](https://ee.stanford.edu) at Stanford University in 2019, where I worked with [Juan Rivas](https://profiles.stanford.edu/juan-rivas-davila) in the [SUPER-Lab](https://superlab.stanford.edu).
