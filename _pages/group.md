@@ -1,13 +1,36 @@
 ---
-permalink: /
-title: "Group"
-excerpt: ""
+layout: archive
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /Bio/
-  - /group.html
+redirect_from:
+  - /research
 ---
 
-Hi! I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in [power electronics](https://en.wikipedia.org/wiki/Power_electronics) circuits and components and how to design and optimize power conversion systems for applications, such as high-performance computing, renewable energy, and medical devices. I was an visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. from the [Electrical Engineering Department](https://ee.stanford.edu) at Stanford University in 2019, where I worked with [Juan Rivas](https://profiles.stanford.edu/juan-rivas-davila) in the [SUPER-Lab](https://superlab.stanford.edu).
+The efficient use of electrical energy is a foundation of modern society. Power electronics is at the core of electrical energy conversion and dramatically impacts an electronic system’s size, performance, and cost. Many emerging applications, such as renewable energy, electric vehicles (EVs), and medical devices, demand high-performance power electronics that are smaller, lighter, more efficient, flexible, reliable, and less costly than existing technologies can provide.
 
-I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. [Here](https://leigupe.github.io/research/) highlights some of my past research. I will be taking new graduate students in the foreseeable future (next few years). If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and feel free to mention my name in your application. Thanks for your interest!
+My research pushes the performance boundaries of power electronics through innovations in semiconductors, circuits, and control techniques to support various applications. My goal is to improve clean energy utilization and efficiencies in transportation and industrial systems by providing solutions that can leverage the advantages of wide-bandgap (WBG) power semiconductors. I also aim to develop essential tools and instruments with advanced power electronics to encourage new methods and procedures in medical research and treatment.
+
+Wireless Power Transfer for EV Charging
+------
+EVs are becoming significantly less costly to own than gasoline vehicles, driven by decreasing battery costs, reduced maintenance, and much higher drive-train efficiencies. 
+However, the transition to an electric fleet to fight climate change faces significant remaining hurdles, one of which is the need for a reliable and widespread charging infrastructure. 
+My postdoctoral research aims to facilitate the transition to electric transportation by developing cost-effective wireless charging technology \[[Gu TPEL'21](https://ieeexplore.ieee.org/document/9159915), [Gu WPTC'21](https://ieeexplore.ieee.org/document/9458037)\]. 
+Compared to wired charging, inductive wireless power transfer (WPT) is more convenient and can improve the utilization of the future fleet of electric cars, scooters, and autonomous passenger vehicles. 
+In addition, widely deployed WPT systems can reduce the onboard battery size, further reducing EVs’ cost and weight.
+
+High-Power (0.1-10 kW) Radio-Frequency (3-300 MHz) RF Plasma Generators
+------
+RF Plasma generators are becoming an increasingly important technology in the upcoming decade with their indispensable role in information technology infrastructure (semiconductor processing equipment) and solutions addressing climate change, such as plasma-catalyzed zero-carbon fertilizer and nuclear fusion energy. 
+However, building high-performance RF plasma generators is hugely challenging as plasma loads are highly nonlinear and variable depending on the operating conditions. 
+Current plasma driving systems have inefficient PAs and utilize mechanically-controlled matching networks to handle the nonlinear plasma load, making the entire driver bulky, slow in response, and energy-consuming. 
+The emerging WBG power devices hold enormous promise in realizing solid-state multi-kilowatt plasma drivers that can be orders of magnitude more compact, efficient, and faster than current technologies \[[Tong TIE'22](https://ieeexplore.ieee.org/document/9464735), [Xu TPEL'20](https://ieeexplore.ieee.org/document/8906160)\].
+
+Miniaturized Power Electronics for Medical Applications
+------
+Compared to consumer applications, medical equipment like diagnostic X-ray and magnetic resonance imaging (MRI) often require power electronics with significantly more challenging specifications (higher voltage, frequency, or power) other than common dc-dc power management. 
+For example, a computed tomography (CT) scanner typically uses high voltage (~140 kV) to generate X-rays. 
+It takes images from different angles around patients' bodies to create cross-sectional images (slices) of the bones, blood vessels, and soft tissues. 
+Unfortunately, the current bulky and heavy high-voltage power supplies are among the technology bottlenecks that limit the rotation speed, gantry size, and power consumption of existing scanners.
+Part of my doctoral research studied methods of building compact high-voltage converters that can lead to more portable diagnostic X-ray devices for point-of-care medicine \[[Park COMPEL'19](https://ieeexplore.ieee.org/document/8769612), [Park APEC'18](https://ieeexplore.ieee.org/document/8341327)\]. 
+Another example of my efforts in improving medical power technologies is the work on this ultra-compact high-intensity focused ultrasound (HIFU) system for cancer therapy \[[Gu COMPEL'19](https://ieeexplore.ieee.org/document/8769682), [Stedman IUS'19](https://ieeexplore.ieee.org/document/8925689)\]. 
