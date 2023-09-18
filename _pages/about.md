@@ -23,5 +23,6 @@ Students
 
 [Cameron Woo](https://www.linkedin.com/in/cameron-woo/)
 
--Propspective students
+Propspective students
+
 I will be taking new graduate students in the foreseeable future (next few years). If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and feel free to mention my name in your application. Thanks for your interest!
