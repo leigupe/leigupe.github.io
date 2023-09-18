@@ -16,9 +16,9 @@ Group
 ======
 I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. [Here](https://leigupe.github.io/research/) highlights some of my past research. 
 
-[Sida Chen](https://www.linkedin.com/in/chensida/)
-[Simone Kwee](https://www.linkedin.com/in/simone-kwee/)
-[Cameron Woo](https://www.linkedin.com/in/cameron-woo/)
+* [Sida Chen](https://www.linkedin.com/in/chensida/)
+* [Simone Kwee](https://www.linkedin.com/in/simone-kwee/)
+* [Cameron Woo](https://www.linkedin.com/in/cameron-woo/)
 
 Potential students
 ======
