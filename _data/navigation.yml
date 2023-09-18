@@ -7,7 +7,7 @@ main:
     url: "https://scholar.google.com/citations?user=sJf1iI8AAAAJ&hl=en"
 
   - title: "Group"
-   url: /Group/    
+    url: /group/    
 
 #  - title: "Teaching"
 #    url: /teaching/    

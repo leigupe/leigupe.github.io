@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Group"
+permalink: /group/
 author_profile: true
 redirect_from:
-  - /research
+  - /group
 ---
 
 The efficient use of electrical energy is a foundation of modern society. Power electronics is at the core of electrical energy conversion and dramatically impacts an electronic system’s size, performance, and cost. Many emerging applications, such as renewable energy, electric vehicles (EVs), and medical devices, demand high-performance power electronics that are smaller, lighter, more efficient, flexible, reliable, and less costly than existing technologies can provide.
