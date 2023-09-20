@@ -26,4 +26,5 @@ I will be taking new graduate students in the foreseeable future. If you are int
 
 Address 
 ======
-![Moore Building](/images/moore.jpg)
+![Moore Building](/images/moore.jpg =x250)
+![Power Lab](/images/pelab_s.jpg =x250)
