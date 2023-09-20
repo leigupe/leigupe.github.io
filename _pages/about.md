@@ -24,12 +24,18 @@ Potential students
 ======
 I will be taking new graduate students in the foreseeable future. If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and mention my name in your application. Please be mindful that I receive a large number of emails from prospective students asking me to evaluate their resumes and inquiring about research assistantships in my group. Please do not be discouraged if I do not respond or respond only with a short email due to limited bandwidth. I tend to take on 1-3 new students each year, and so I need to be selective and defer the evaluations and decisions until I see the entire pool of applicants in December. For master students, I recommend you take my courses ESE5800 or ESE6710 first. 
 
-Address 
+Visiting Us 
 ======
 <!-- ![Moore Building](/images/moore.jpg =x250)
 ![Power Lab](/images/pelab_s.jpg =x250) -->
 Electrical and Systems Engineering
+
 200 South 33rd Street 202
+
 Philadelphia, PA 19104
+
+#### Moore Building
 <img src="/images/moore.jpg" alt="Moore Building" width="300"/>
+
+#### Power Electronics Research Lab
 <img src="/images/pelab_s.jpg" alt="Power Lab" width="300"/>
