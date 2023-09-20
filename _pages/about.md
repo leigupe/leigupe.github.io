@@ -26,7 +26,7 @@ I will be taking new graduate students in the foreseeable future. If you are int
 ![Power Lab](/images/pelab_s.jpg =x250) -->
 Electrical and Systems Engineering\
 200 South 33rd Street 202\
-Philadelphia, PA 19104\
+Philadelphia, PA 19104
 ### Moore Building
 <img src="/images/moore.jpg" alt="Moore Building" width="300"/>\
 ### Power Electronics Research Lab
