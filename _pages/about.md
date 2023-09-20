@@ -28,4 +28,8 @@ Address
 ======
 <!-- ![Moore Building](/images/moore.jpg =x250)
 ![Power Lab](/images/pelab_s.jpg =x250) -->
-<img src="/images/moore.jpg" alt="Moore Building" width="200"/>
+Electrical and Systems Engineering
+200 South 33rd Street 202
+Philadelphia, PA 19104
+<img src="/images/moore.jpg" alt="Moore Building" width="300"/>
+<img src="/images/pelab_s.jpg" alt="Power Lab" width="300"/>
