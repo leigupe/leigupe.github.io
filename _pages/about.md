@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 ## About
-I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in [power electronics](https://en.wikipedia.org/wiki/Power_electronics) circuits and components and how to design and optimize power conversion systems for applications, such as high-performance computing, renewable energy, and medical devices. I was an visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. in Electrical Engineering from [Stanford](https://ee.stanford.edu) in 2019.
+I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in [power electronics](https://en.wikipedia.org/wiki/Power_electronics) circuits and components and how to design and optimize power conversion systems for applications, such as high-performance computing, renewable energy, and medical devices. I am also a visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. in Electrical Engineering from [Stanford](https://ee.stanford.edu) in 2019.
 
 ## Group
 I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. [Here](https://leigupe.github.io/research/) highlights some of my past research. 
 
 * [Sida Chen](https://www.linkedin.com/in/chensida/)
-* Aobo Yang
+* [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)
 
 ## Potential students
 
