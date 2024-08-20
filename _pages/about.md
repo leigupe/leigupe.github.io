@@ -26,9 +26,12 @@ I will be taking new graduate students in the foreseeable future. If you are int
 ## Updates
 
 Aobo and Xuan participated in IEEE IMS SDC, June 2024
+
 <img src="/images/ims_sdc.jpg" width="300"/>\
 <img src="/images/ims_sdc2.jpg" width="300"/>
+
 Sida presented at COMPEL 2024, June 2024
+
 <img src="/images/sida_compel.jpg" width="300"/>
 
 
