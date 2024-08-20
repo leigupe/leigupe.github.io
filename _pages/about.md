@@ -33,3 +33,12 @@ Philadelphia, PA 19104
 <img src="/images/moore.jpg" alt="Moore Building" width="300"/>\
 ### Power Electronics Research Lab
 <img src="/images/pelab_s.jpg" alt="Power Lab" width="300"/>
+
+## Sponsors 
+<!-- ![Moore Building](/images/moore.jpg =x250)
+![Power Lab](/images/pelab_s.jpg =x250) -->
+
+<!-- ### Moore Building -->
+<img src="/images/upenn-logo.jpg" width="100"/>
+<img src="/images/ARPA-E_logo.png" width="100"/>
+<img src="/images/lam.png" width="100"/>
