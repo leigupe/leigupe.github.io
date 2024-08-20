@@ -23,6 +23,15 @@ I lead the Penn Power Electronics Research Lab. My lab focuses on technology inn
 
 I will be taking new graduate students in the foreseeable future. If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and mention my name in your application. Please be mindful that I receive a large number of emails from prospective students asking me to evaluate their resumes and inquiring about research assistantships in my group. Please do not be discouraged if I do not respond or respond only with a short email due to limited bandwidth. I tend to take on 1-3 new students each year, and so I need to be selective and defer the evaluations and decisions until I see the entire pool of applicants in December. For master students, I recommend you take my course ESE5800 or ESE6710 first. 
 
+## Updates
+
+Aobo and Xuan participated in IEEE IMS SDC, June 2024
+<img src="/images/ims_sdc.jpg" width="300"/>\
+<img src="/images/ims_sdc2.jpg" width="300"/>
+Sida presented at COMPEL 2024, June 2024
+<img src="/images/sida_compel.jpg" width="300"/>
+
+
 ## Visiting Us 
 <!-- ![Moore Building](/images/moore.jpg =x250)
 ![Power Lab](/images/pelab_s.jpg =x250) -->
