@@ -27,7 +27,7 @@ I will be taking new graduate students in the foreseeable future. If you are int
 
 Aobo and Xuan participated in IEEE IMS SDC, June 2024.
 
-<img src="/images/ims_sdc.jpg" width="300"/>\
+<img src="/images/ims_sdc.jpg" width="300"/>
 
 <img src="/images/ims_sdc_2.jpg" width="300"/>
 
