@@ -14,12 +14,14 @@ I am an Assistant Professor in the [Electrical and Systems Engineering Departmen
 ## Group
 I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. [Here](https://leigupe.github.io/research/) highlights some of my past research. 
 
-* [Sida Chen](https://www.linkedin.com/in/chensida/)
 * [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)
+* [Cameron Woo](https://www.linkedin.com/in/cameron-woo)
+* [Sida Chen](https://www.linkedin.com/in/chensida/)
+* [Victor Gao](https://www.linkedin.com/in/victor-y-gao)
 
 ## Potential students
 
-[Postdoc opening in power managament integrated circutis, Jan 2025](http://leigupe.github.io/files/UPenn_Postdoc_Opening_2025.pdf)
+[Postdoc opening in power managament integrated circutis, open until filled](http://leigupe.github.io/files/UPenn_Postdoc_Opening_2025.pdf)
 
 I will be taking new graduate students in the foreseeable future. If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and mention my name in your application. Please be mindful that I receive a large number of emails from prospective students asking me to evaluate their resumes and inquiring about research assistantships in my group. Please do not be discouraged if I do not respond or respond only with a short email due to limited bandwidth. I tend to take on 1-3 new students each year, and so I need to be selective and defer the evaluations and decisions until I see the entire pool of applicants in December. For master students, I recommend you take my course ESE5800 or ESE6710 first. 
 
