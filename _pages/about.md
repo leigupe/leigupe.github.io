@@ -28,7 +28,7 @@ I will be taking new graduate students in the foreseeable future. If you are int
 
 ## Updates
 
-[Jan. 2025] New paper on inductive wireless power transfer published. [#JESTPE_25_WPT](https://ieeexplore.ieee.org/document/10833657)
+[Jan. 2025] New paper on inductive wireless power transfer published. [#JESTPE25_WPT](https://ieeexplore.ieee.org/document/10833657)
 
 [Jun. 2024] Aobo and Xuan participated in IEEE IMS SDC.
 
@@ -36,9 +36,13 @@ I will be taking new graduate students in the foreseeable future. If you are int
 
 <img src="/images/ims_sdc_2.jpg" width="300"/>
 
-[Jun. 2024] Sida presented the collaborative work with Lam Research at COMPEL at LUMS. [#COMPEL_24_Chen](https://ieeexplore.ieee.org/document/10613998)
+[Jun. 2024] Sida presented the collaborative work with Lam Research at COMPEL at LUMS. [#COMPEL24_Chen](https://ieeexplore.ieee.org/document/10613998)
 
 <img src="/images/sida_compel.jpg" width="300"/>
+
+[May. 2024] Sida received the Penn ESE Best Master Thesis Award. 
+
+<img src="/images/sida_thesis_award.jpg" width="300"/>
 
 
 ## Visiting Us 
