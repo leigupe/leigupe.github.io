@@ -40,7 +40,7 @@ I will be taking new graduate students in the foreseeable future. If you are int
 
 [May 2024] Sida received the Penn ESE Best Master Thesis Award. 
 
-<img src="/images/sida_thesis_award.jpg" width="300"/>
+<img src="/images/sida_thesis_award2.jpg" width="300"/>
 
 
 ## Visiting Us 
