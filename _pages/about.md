@@ -28,6 +28,8 @@ I will be taking new graduate students in the foreseeable future. If you are int
 
 ## Updates
 
+New paper on inductive power transfer published, January 2025. [#JESTPE_25_WPT](https://ieeexplore.ieee.org/document/10833657)
+
 Aobo and Xuan participated in IEEE IMS SDC, June 2024.
 
 <img src="/images/ims_sdc.jpg" width="300"/>
