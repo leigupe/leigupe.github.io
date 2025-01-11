@@ -32,9 +32,7 @@ I will be taking new graduate students in the foreseeable future. If you are int
 
 [Jun. 2024] Aobo and Xuan participated in IEEE IMS SDC.
 
-<img src="/images/ims_sdc.jpg" width="300"/>
-
-<img src="/images/ims_sdc_2.jpg" width="300"/>
+<img src="/images/ims_sdc.jpg" width="300"/> <img src="/images/ims_sdc_2.jpg" width="300"/>
 
 [Jun. 2024] Sida presented the collaborative work with Lam Research at COMPEL at LUMS. [#COMPEL24_Chen](https://ieeexplore.ieee.org/document/10613998)
 
