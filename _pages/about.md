@@ -61,8 +61,8 @@ Philadelphia, PA 19104
 <img src="/images/pelab_s.jpg" alt="Power Lab" width="300"/>
 
 ## Collaborators 
-Prof. Firooz Aflatouni
-Prof. Troy Olsson
+Prof. Firooz Aflatouni\
+Prof. Troy Olsson\
 Prof. Mark Allen
 
 ## Sponsors 
