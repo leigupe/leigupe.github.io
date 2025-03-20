@@ -60,6 +60,11 @@ Philadelphia, PA 19104
 ### Power Electronics Research Lab
 <img src="/images/pelab_s.jpg" alt="Power Lab" width="300"/>
 
+## Collaborators 
+Prof. Firooz Aflatouni
+Prof. Troy Olsson
+Prof. Mark Allen
+
 ## Sponsors 
 <!-- ![Moore Building](/images/moore.jpg =x250)
 ![Power Lab](/images/pelab_s.jpg =x250) -->
