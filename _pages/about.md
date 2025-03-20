@@ -30,9 +30,9 @@ I will be taking new graduate students in the foreseeable future. If you are int
 
 ## Updates
 
-[Mar. 2025] Team attended 2025 ARPA-E Energy Innovation Summit. 
+[Mar. 2025] Frank, Anish, and Jackson attended 2025 ARPA-E Energy Innovation Summit. 
 
-<img src="/images/ims_sdc.jpg" width="300"/> <img src="/images/arpaesummit.jpg" width="300"/>
+<img src="/images/arpaesummit.jpg" width="300"/>
 
 [Jan. 2025] New paper on multimegahertz inductive wireless power transfer published. [#JESTPE25_WPT](https://ieeexplore.ieee.org/document/10833657)
 
