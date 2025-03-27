@@ -9,16 +9,13 @@ redirect_from:
 ---
 
 ## Penn Power Electronics Research Lab (PENGUIN Lab)
-Hi! we are a research group that loves to build circuits, more specifically, [power electronics](https://en.wikipedia.org/wiki/Power_electronics). We build efficient and miniaturized circuits to enable cool applications, including but not limited to, renewable energy systems, AI computers, Magnetic Resonance Imaging (MRI) machines, semiconductor processing equipment, robots, and electric vehicles. [Here](https://leigupe.github.io/research/) highlights some of my past research. 
+Welcome! we are a research group passionate about building circuits — especially in the field of [power electronics](https://en.wikipedia.org/wiki/Power_electronics). Our focus is on creating efficient, compact systems that power exciting technologies, including renewable energy platforms, AI hardware, Magnetic Resonance Imaging (MRI) machines, semiconductor processing tools, robotics, and electric vehicles. [Here](https://leigupe.github.io/research/) are some highlights from our past work. 
 <!-- I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. -->
 
-Our research is highly interdisciplinary and involves circuits, electromagnetics, optics, piezoelectricity, semiconductor devices, and control theory. If you are interested, please reach out! Generally speaking, we are working on the following research categories:  
-- New ways of powering things:  
-   Inductive power transfer, integrated optical power delivery and sensing;  
-- Novel techniques to miniaturize energy conversion:  
-   High-frequency circuits, wide-bandgap semiconductors, integrated power management, piezoelectric passives;  
-- Power for medical devices:  
-   MRI, ultrasound, X-rays, implantable devices.
+Our research is deeply interdisciplinary, drawing from circuits, electromagnetics, optics, piezoelectricity, semiconductor devices, and control theory. If any of this sparks your interest, feel free to reach out! Here are a few of the areas we’re currently exploring:
+- Innovative power delivery: Inductive power transfer, integrated optical power delivery and sensing;  
+- Miniaturized energy conversion: High-frequency circuits, wide-bandgap semiconductors, integrated power management, piezoelectric passives;  
+- Powering medical technologies: MRI, ultrasound, X-rays, and implantable devices.
 
 ## Members  
 - [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)  
