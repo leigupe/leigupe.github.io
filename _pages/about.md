@@ -16,7 +16,7 @@ Our research is highly interdisciplinary and involves circuits, electromagnetics
 - New ways of powering things:  
    Inductive power transfer, integrated optical power delivery and sensing;  
 - Novel techniques to miniaturize converters:  
-   High-frequency circuits, Integrated power management, Piezoelectric passives  
+   High-frequency circuits, Wide-bandgap semiconductors, Integrated power management, Piezoelectric passives  
 - Power for medical devices:  
    MRI, Ultrasound, X-rays, Implantable devices
 
