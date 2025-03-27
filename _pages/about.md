@@ -39,7 +39,7 @@ I expect to take on new graduate students in the near future. If you're interest
 
 ## Updates
 
-[Mar. 2025] Frank, Anish, and Jackson presented our [ULTRAFAST project](https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/all-optical-control-isolated-high-voltage-power-systems-using-integrated-electronic-photonic-and-microfabricated-sensing-and-breaker-technology) at 2025 ARPA-E Energy Innovation Summit. 
+[Mar. 2025] Frank, Anish, and Jackson presented our [ULTRAFAST project](https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/all-optical-control-isolated-high-voltage-power-systems-using-integrated-electronic-photonic-and-microfabricated-sensing-and-breaker-technology) at 2025 ARPA-E Energy Innovation Summit, Washington, DC. 
 
 <img src="/images/arpaesummit.jpg" width="300"/>
 
