@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Group
+## Penn Power Electronics Research Lab (PENGUIN Lab)
 Hi! we are a research group that loves to build circuits, more specifically, power electronics. We build efficient and miniaturized circuits to enable cool applications, including but not limited to, renewable energy systems, AI computers, Magnetic Resonance Imaging (MRI) machines, semiconductor processing equipment, robots, and electric vehicles. [Here](https://leigupe.github.io/research/) highlights some of my past research. 
 <!-- I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. -->
 
