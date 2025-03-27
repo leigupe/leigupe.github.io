@@ -13,7 +13,6 @@ Hi! we are a research group that loves to build circuits, more specifically, pow
 <!-- I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. -->
 
 Our research is highly interdisciplinary and involves circuits, electromagnetics, optics, piezoelectricity, semiconductor devices, and control theory. If you are interested, please reach out! Generally speaking, we are working on the following research categories.
-
 - New ways of powering things  
    Inductive power transfer  
    Optical power transfer and sensing  
@@ -22,8 +21,7 @@ Our research is highly interdisciplinary and involves circuits, electromagnetics
    Piezoelectric passives  
 - Power for medical devices  
    MRI, Ultrasound, X-rays  
-   Implantable devices  
-
+   Implantable devices     
 ## Members
 * [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)
 * [Cameron Woo](https://www.linkedin.com/in/cameron-woo)
