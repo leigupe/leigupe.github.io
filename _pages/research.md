@@ -34,3 +34,5 @@ It takes images from different angles around patients' bodies to create cross-se
 Unfortunately, the current bulky and heavy high-voltage power supplies are among the technology bottlenecks that limit the rotation speed, gantry size, and power consumption of existing scanners.
 Part of my doctoral research studied methods of building compact high-voltage converters that can lead to more portable diagnostic X-ray devices for point-of-care medicine \[[Park COMPEL'19](https://ieeexplore.ieee.org/document/8769612), [Park APEC'18](https://ieeexplore.ieee.org/document/8341327)\]. 
 Another example of my efforts in improving medical power technologies is the work on this ultra-compact high-intensity focused ultrasound (HIFU) system for cancer therapy \[[Gu COMPEL'19](https://ieeexplore.ieee.org/document/8769682), [Stedman IUS'19](https://ieeexplore.ieee.org/document/8925689)\]. 
+
+Last updated: 2023
