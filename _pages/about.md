@@ -21,7 +21,8 @@ Our research is highly interdisciplinary and involves circuits, electromagnetics
    Piezoelectric passives  
 - Power for medical devices  
    MRI, Ultrasound, X-rays  
-   Implantable devices     
+   Implantable devices
+
 ## Members
 * [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)
 * [Cameron Woo](https://www.linkedin.com/in/cameron-woo)
