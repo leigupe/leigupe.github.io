@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Penn Power Electronics Research Lab (PENGUIN Lab)
-Welcome! we are a research group passionate about building circuits — especially in the field of [power electronics](https://en.wikipedia.org/wiki/Power_electronics). Our focus is on creating efficient, compact systems that power exciting technologies, including renewable energy platforms, AI hardware, Magnetic Resonance Imaging (MRI) machines, semiconductor processing tools, robotics, and electric vehicles. [Here](https://leigupe.github.io/research/) are some highlights from our past work. 
+Welcome! We are a research group passionate about building circuits — especially in the field of [power electronics](https://en.wikipedia.org/wiki/Power_electronics). Our focus is on creating efficient, compact systems that power exciting technologies, including renewable energy platforms, AI hardware, Magnetic Resonance Imaging (MRI) machines, semiconductor processing tools, robotics, and electric vehicles. [Here](https://leigupe.github.io/research/) are some highlights from our past work. 
 <!-- I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. -->
 
 Our research is deeply interdisciplinary, drawing from circuits, electromagnetics, optics, piezoelectricity, semiconductor devices, and control theory. If any of this sparks your interest, feel free to reach out! Here are a few of the areas we’re currently exploring:
@@ -24,12 +24,12 @@ Our research is deeply interdisciplinary, drawing from circuits, electromagnetic
 - [Sida Chen](https://www.linkedin.com/in/chensida/)  
 - [Victor Gao](https://www.linkedin.com/in/victor-y-gao)  
 
-## About myself
+## About Me
 I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in power electronics, energy conversion, and medical devices. I am also a visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. in Electrical Engineering from Stanford in 2019.
 
 (Here is a more formal bio in the [third-person](https://leigupe.github.io/bio/).)
 
-## Potential students
+## Join Us
 
 [Postdoc opening in power managament integrated circutis, open until filled](http://leigupe.github.io/files/UPenn_Postdoc_Opening_2025.pdf)
 
@@ -58,7 +58,7 @@ I expect to take on new graduate students in the near future. If you're interest
 <img src="/images/sida_thesis_award.jpg" width="300"/>
 
 
-## Visiting Us 
+## Visit Us 
 <!-- ![Moore Building](/images/moore.jpg =x250)
 ![Power Lab](/images/pelab_s.jpg =x250) -->
 Electrical and Systems Engineering\
