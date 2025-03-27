@@ -16,9 +16,9 @@ Our research is highly interdisciplinary and involves circuits, electromagnetics
 - New ways of powering things:  
    Inductive power transfer, integrated optical power delivery and sensing;  
 - Novel techniques to miniaturize energy conversion:  
-   High-frequency circuits, wide-bandgap semiconductors, integrated power management, piezoelectric passives  
+   High-frequency circuits, wide-bandgap semiconductors, integrated power management, piezoelectric passives;  
 - Power for medical devices:  
-   MRI, ultrasound, X-rays, implantable devices
+   MRI, ultrasound, X-rays, implantable devices.
 
 ## Members  
 [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)  
