@@ -8,19 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-## About
-I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in [power electronics](https://en.wikipedia.org/wiki/Power_electronics) circuits and components and how to design and optimize power conversion systems for applications, such as high-performance computing, renewable energy, and medical devices. I am also a visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. in Electrical Engineering from [Stanford](https://ee.stanford.edu) in 2019.
-
-(Here is a more formal bio in the [third-person](https://leigupe.github.io/bio/).)
-
 ## Group
-I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. [Here](https://leigupe.github.io/research/) highlights some of my past research. 
+Hi! we are a research group that loves to build circuits, more specifically, power electronics. We build efficient and miniaturized circuits to enable cool applications, including but not limited to, renewable energy systems, AI computers, Magnetic Resonance Imaging (MRI) machines, semiconductor processing equipment, robots, and electric vehicles. [Here](https://leigupe.github.io/research/) highlights some of my past research. 
+<!-- I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. -->
+
+Our research is highly interdisciplinary and involves circuits, electromagnetics, optics, piezoelectricity, semiconductor devices, and control theory. If you are interested, please reach out! Generally speaking, we are working on the following research categories.
+
+- New ways of powering things
+  - Inductive power transfer
+  - Optical power transfer and sensing
+- Novel techniques to miniaturize circuits
+  - Integrated power management 
+  - Piezoelectric passives
+- Power for medical devices
+  - MRI
+  - Implantable devices
+  - Ultrasound
+  - X-ray
 
 * [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)
 * [Cameron Woo](https://www.linkedin.com/in/cameron-woo)
 * Harrisen Richards
 * [Sida Chen](https://www.linkedin.com/in/chensida/)
 * [Victor Gao](https://www.linkedin.com/in/victor-y-gao)
+
+## About myself
+I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in [power electronics](https://en.wikipedia.org/wiki/Power_electronics) circuits and components and how to design and optimize power conversion systems for applications, such as high-performance computing, renewable energy, and medical devices. I am also a visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. in Electrical Engineering from [Stanford](https://ee.stanford.edu) in 2019.
+
+(Here is a more formal bio in the [third-person](https://leigupe.github.io/bio/).)
 
 ## Potential students
 
