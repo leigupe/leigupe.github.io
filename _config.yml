@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gu | Assistant Professor @ Penn Engineering"
+title                    : "Lei Gu, Assistant Professor@Penn Engineering"
 title_separator          : "-"
 name                     : &name "Lei Gu"
 description              : &description "- Homepage"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lei Gu (顾磊)"
+  name             : "Lei Gu"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Penn Engineering | Visiting Academic, NVIDIA Research"
   location         : "Philadelphia, PA"
