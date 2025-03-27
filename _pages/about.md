@@ -28,7 +28,7 @@ Our research is highly interdisciplinary and involves circuits, electromagnetics
 * [Victor Gao](https://www.linkedin.com/in/victor-y-gao)
 
 ## About myself
-I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in circuits, energy conversion, and medical devices. I am also a visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. in Electrical Engineering from [Stanford](https://ee.stanford.edu) in 2019.
+I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. I am broadly interested in circuits, energy conversion, and medical devices. I am also a visiting researcher in the circuits group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working on data center power delivery. Before NVIDIA, I worked at Apple. I received my Ph.D. in Electrical Engineering from Stanford in 2019.
 
 (Here is a more formal bio in the [third-person](https://leigupe.github.io/bio/).)
 
