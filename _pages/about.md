@@ -15,7 +15,7 @@ Hi! we are a research group that loves to build circuits, more specifically, [po
 Our research is highly interdisciplinary and involves circuits, electromagnetics, optics, piezoelectricity, semiconductor devices, and control theory. If you are interested, please reach out! Generally speaking, we are working on the following research categories:  
 - New ways of powering things:  
    Inductive power transfer, integrated optical power delivery and sensing;  
-- Novel techniques to miniaturize converters:  
+- Novel techniques to miniaturize energy conversion:  
    High-frequency circuits, Wide-bandgap semiconductors, Integrated power management, Piezoelectric passives  
 - Power for medical devices:  
    MRI, Ultrasound, X-rays, Implantable devices
