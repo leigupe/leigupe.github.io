@@ -21,6 +21,7 @@ Our research is deeply interdisciplinary, drawing from circuits, electromagnetic
 - [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)  
 - [Cameron Woo](https://www.linkedin.com/in/cameron-woo)  
 - Harrisen Richards  
+- [Rohan Panday](https://www.linkedin.com/in/rohan-panday) 
 - [Sida Chen](https://www.linkedin.com/in/chensida/)  
 - [Victor Gao](https://www.linkedin.com/in/victor-y-gao)  
 
