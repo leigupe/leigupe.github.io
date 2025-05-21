@@ -32,7 +32,7 @@ I am an Assistant Professor in the [Electrical and Systems Engineering Departmen
 
 ## Join Us
 
-[Postdoc opening in power management integrated circuits, open until filled](http://leigupe.github.io/files/UPenn_Postdoc_Opening_2025.pdf)
+<!-- [Postdoc opening in power management integrated circuits, open until filled](http://leigupe.github.io/files/UPenn_Postdoc_Opening_2025.pdf) -->
 
 <!-- I will be taking new graduate students in the foreseeable future. If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and mention my name in your application. Please be mindful that I receive a large number of emails from prospective students asking me to evaluate their resumes and inquiring about research assistantships in my group. Please do not be discouraged if I do not respond or respond only with a short email due to limited bandwidth. I tend to take on 1-2 new students each year, and so I need to be selective and defer the evaluations and decisions until I see the entire pool of applicants in January. For master students, I recommend you take my course ESE5800 or ESE6710 first.  -->
 
