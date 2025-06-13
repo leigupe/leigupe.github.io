@@ -84,4 +84,5 @@ Prof. Mark Allen
 <!-- ### Moore Building -->
 <img src="/images/upenn-logo.jpg" width="100"/>
 <img src="/images/ARPA-E_logo.png" width="100"/>
+<img src="/images/nsf_logo.png" width="100"/>
 <img src="/images/lam.png" width="100"/>
