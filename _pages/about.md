@@ -42,9 +42,9 @@ I expect to take on new graduate students in the near future. If you're interest
 
 [June 2025] We received [the NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442316&HistoricalAwards=false). 
 
-[May 2025] Aloha! Aobo presented his energy-efficient pulsed magnet and amplifier for MRI applications at the 2025 ISMRM Annual Meeting in Honolulu, HI. Photo with Juan's group.
+[May 2025] Aloha! Aobo presented his energy-efficient pulsed magnet and amplifier for MRI applications at the 2025 ISMRM Annual Meeting in Honolulu, HI.
 
-<img src="/images/aobo_ismrm_1.jpg" width="300"/> <img src="/images/aobo_ismrm_3.jpg" width="300"/>
+<img src="/images/aobo_ismrm_1.jpg" width="300"/> <img src="/images/aobo_ismrm_4.jpg" width="300"/>
 
 [Mar. 2025] Frank, Anish, and Jackson presented our [ULTRAFAST project](https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/all-optical-control-isolated-high-voltage-power-systems-using-integrated-electronic-photonic-and-microfabricated-sensing-and-breaker-technology) at 2025 ARPA-E Energy Innovation Summit, Washington, DC. 
 
