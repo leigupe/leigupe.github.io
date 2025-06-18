@@ -37,7 +37,8 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 <!-- [Postdoc opening in power management integrated circuits, open until filled](http://leigupe.github.io/files/UPenn_Postdoc_Opening_2025.pdf) -->
 
 <!-- I will be taking new graduate students in the foreseeable future. If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and mention my name in your application. Please be mindful that I receive a large number of emails from prospective students asking me to evaluate their resumes and inquiring about research assistantships in my group. Please do not be discouraged if I do not respond or respond only with a short email due to limited bandwidth. I tend to take on 1-2 new students each year, and so I need to be selective and defer the evaluations and decisions until I see the entire pool of applicants in January. For master students, I recommend you take my course ESE5800 or ESE6710 first.  -->
-<!-- **We are looking for 1-2 highly motivated PhD candidates to join in Spring/Fall 2026. Please email me your CV and transcripts.** -->
+**We are looking for 1–2 highly motivated Ph.D. students to join our group in Spring or Fall 2026.
+If you're interested, please fill out the interest [form](https://forms.gle/Wfxs3ANPg6J6KdXM6).**
 
 I expect to take on new graduate students in the near future. If you're interested in working with me at Penn, please apply to the [Penn Engineering graduate program](https://gradadm.seas.upenn.edu) and mention my name in your application. While I appreciate the interest, I receive many emails from prospective students and may not be able to respond to each one in detail. I usually take 1–2 new students per year and make decisions after reviewing the full pool of applicants in January. For master’s students, I recommend starting by taking my course ESE5800 or ESE6710.
 
