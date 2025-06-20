@@ -45,7 +45,7 @@ I expect to take on new graduate students in the near future. If you're interest
 ## Updates
 
 
-[June 2025] Congratulations to Victor, Aobo, and Sida for receiving the **[IEEE ITEC+ 2025 Best Student Paper Award](https://itec-conf.com/)** for their paper, “Analysis and Comparison of Compensation Networks for Multi-Megahertz Inductive Power Transfer.”
+[June 2025] Congratulations to Victor, Aobo, and Sida for receiving the [IEEE ITEC+ 2025 Best Student Paper Award](https://itec-conf.com/) for their paper, “Analysis and Comparison of Compensation Networks for Multi-Megahertz Inductive Power Transfer.”
 
 [June 2025] We received [the NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442316&HistoricalAwards=false). 
 
