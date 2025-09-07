@@ -17,6 +17,13 @@ Our research is deeply interdisciplinary, drawing from circuits, electromagnetic
 - Miniaturized energy conversion: High-frequency circuits, wide-bandgap semiconductors, integrated power management, piezoelectric passives;  
 - Powering medical technologies: MRI, ultrasound, X-rays, and implantable devices.
 
+## About Me
+<!-- I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. My research broadly focuses on power electronics, energy conversion, and medical devices. I am also a visiting researcher in the Circuits Group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), where I work on data center power delivery. Before joining NVIDIA, I worked with an amazing team on [HomePod](https://www.apple.com/homepod/) at Apple. I received my Ph.D. in Electrical Engineering from Stanford in 2019. -->
+
+I’m an Assistant Professor in the Department of [Electrical and Systems Engineering](https://www.ese.upenn.edu) at the University of Pennsylvania. My research focuses on power electronics, energy conversion, and medical devices. I’m also a visiting researcher with the Circuits Group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), where I work on power delivery for data centers. Before that, I was part of an incredible team at Apple working on the [HomePod](https://www.apple.com/homepod/). I earned my Ph.D. in Electrical Engineering from Stanford in 2019.
+
+(Here is a more formal bio in the [third-person](https://leigupe.github.io/bio/).)
+
 ## Members  
 - [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)  
 - [Cameron Woo](https://www.linkedin.com/in/cameron-woo)  
@@ -24,13 +31,6 @@ Our research is deeply interdisciplinary, drawing from circuits, electromagnetic
 - [Rohan Panday](https://www.linkedin.com/in/rohan-panday) 
 - [Sida Chen](https://www.linkedin.com/in/chensida/)  
 - [Victor Gao](https://www.linkedin.com/in/victor-y-gao)  
-
-## About Me
-<!-- I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. My research broadly focuses on power electronics, energy conversion, and medical devices. I am also a visiting researcher in the Circuits Group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), where I work on data center power delivery. Before joining NVIDIA, I worked with an amazing team on [HomePod](https://www.apple.com/homepod/) at Apple. I received my Ph.D. in Electrical Engineering from Stanford in 2019. -->
-
-I’m an Assistant Professor in the Department of [Electrical and Systems Engineering](https://www.ese.upenn.edu) at the University of Pennsylvania. My research focuses on power electronics, energy conversion, and medical devices. I’m also a visiting researcher with the Circuits Group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), where I work on power delivery for data centers. Before that, I was part of an incredible team at Apple working on the [HomePod](https://www.apple.com/homepod/). I earned my Ph.D. in Electrical Engineering from Stanford in 2019.
-
-(Here is a more formal bio in the [third-person](https://leigupe.github.io/bio/).)
 
 ## Join Us
 
