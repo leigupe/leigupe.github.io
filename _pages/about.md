@@ -32,6 +32,8 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 - [Sida Chen](https://www.linkedin.com/in/chensida/)  
 - [Victor Gao](https://www.linkedin.com/in/victor-y-gao)  
 
+<img src="/images/cam_dinner.jpg" width="300"/>
+
 ## Join Us
 
 <!-- [Postdoc opening in power management integrated circuits, open until filled](http://leigupe.github.io/files/UPenn_Postdoc_Opening_2025.pdf) -->
