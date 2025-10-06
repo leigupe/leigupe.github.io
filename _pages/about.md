@@ -30,6 +30,7 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 - Harrisen Richards  
 - [Rohan Panday](https://www.linkedin.com/in/rohan-panday) 
 - [Sida Chen](https://www.linkedin.com/in/chensida/)  
+- [Zhiguo Tong](https://scholar.google.com/citations?user=3_I6bksAAAAJ&hl=en)
 - [Victor Gao](https://www.linkedin.com/in/victor-y-gao)  
 
 <img src="/images/cam_dinner.jpg" width="300"/>
