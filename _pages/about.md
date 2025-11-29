@@ -43,7 +43,7 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 **We are seeking**
 - [Postdoc opening in power electronics for medical devices, open until filled](http://leigupe.github.io/files/UPenn_PostdocOpening_2025.pdf) 
 - Highly motivated Ph.D. students to join in Fall 2026.
-If you're interested, please fill out the interest [form](https://forms.gle/Wfxs3ANPg6J6KdXM6).
+If you're interested, please apply directly to [ Penn ESE PhD program](https://gradadm.seas.upenn.edu/doctoral/ ).
 
 I expect to take on new graduate students in the near future. If you're interested in working with me at Penn, please apply to the [Penn Engineering graduate program](https://gradadm.seas.upenn.edu) and mention my name in your application. While I appreciate the interest, I receive many emails from prospective students and may not be able to respond to each one in detail. I usually take 1–2 new students per year and make decisions after reviewing the full pool of applicants in January. For master’s students, I recommend starting by taking my course ESE5800 or ESE6710.
 
