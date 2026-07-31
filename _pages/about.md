@@ -26,7 +26,8 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 
 ## Members  
 - [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)  
-- [Cameron Woo](https://www.linkedin.com/in/cameron-woo)  
+- [Cameron Woo](https://www.linkedin.com/in/cameron-woo)
+- [Gyu Choel Lim](https://scholar.google.com/citations?user=yGswrkIAAAAJ&hl=en)  
 - Harrisen Richards  
 - [Sida Chen](https://www.linkedin.com/in/chensida/)  
 
