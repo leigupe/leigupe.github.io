@@ -25,16 +25,20 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 (Here is a more formal bio in the [third-person](https://leigupe.github.io/bio/).)
 
 ## Members  
+- [Aaron Khan](https://www.linkedin.com/in/aaron-khan-8b9465237)
+- [Ahmed Altunkaya](https://www.linkedin.com/in/ahmed-altunkaya)
 - [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)  
 - [Cameron Woo](https://www.linkedin.com/in/cameron-woo)
 - [Gyu Choel Lim](https://scholar.google.com/citations?user=yGswrkIAAAAJ&hl=en)  
 - Harrisen Richards  
+- [Penelope Anema](https://www.linkedin.com/in/penelopeanema)
 - [Sida Chen](https://www.linkedin.com/in/chensida/)  
+- [Xiang Li](https://www.linkedin.com/in/xianglivt)
 
 ## Alumni
 - [Rohan Panday](https://www.linkedin.com/in/rohan-panday) 
-- [Zhiguo Tong](https://scholar.google.com/citations?user=3_I6bksAAAAJ&hl=en)
 - [Victor Gao](https://www.linkedin.com/in/victor-y-gao)  
+- [Zhiguo Tong](https://scholar.google.com/citations?user=3_I6bksAAAAJ&hl=en)
 
 <img src="/images/cam_dinner.jpg" width="300"/>
 
@@ -45,7 +49,7 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 <!-- I will be taking new graduate students in the foreseeable future. If you are interested in working with me at Penn, please apply to [Penn Engineering’s graduate program](https://gradadm.seas.upenn.edu), and mention my name in your application. Please be mindful that I receive a large number of emails from prospective students asking me to evaluate their resumes and inquiring about research assistantships in my group. Please do not be discouraged if I do not respond or respond only with a short email due to limited bandwidth. I tend to take on 1-2 new students each year, and so I need to be selective and defer the evaluations and decisions until I see the entire pool of applicants in January. For master students, I recommend you take my course ESE5800 or ESE6710 first.  -->
 **We are seeking**
 <!-- - [Postdoc opening in power electronics for medical devices, open until filled](http://leigupe.github.io/files/UPenn_PostdocOpening_2025.pdf)  -->
-- Highly motivated Ph.D. students to join in Fall 2026.
+- Highly motivated Ph.D. students to join in Fall 2027.
 If you're interested, please apply directly to [ Penn ESE PhD program](https://gradadm.seas.upenn.edu/doctoral/ ).
 
 I expect to take on new graduate students in the near future. If you're interested in working with me at Penn, please apply to the [Penn Engineering graduate program](https://gradadm.seas.upenn.edu) and mention my name in your application. While I appreciate the interest, I receive many emails from prospective students and may not be able to respond to each one in detail. I usually take 1–2 new students per year and make decisions after reviewing the full pool of applicants in January. For master’s students, I recommend starting by taking my course ESE5800 or ESE6710.
