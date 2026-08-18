@@ -29,7 +29,7 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 - [Ahmed Altunkaya](https://www.linkedin.com/in/ahmed-altunkaya)
 - [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)  
 - [Cameron Woo](https://www.linkedin.com/in/cameron-woo)
-- [Gyu Choel Lim](https://scholar.google.com/citations?user=yGswrkIAAAAJ&hl=en)  
+- [Gyu Cheol Lim](https://scholar.google.com/citations?user=yGswrkIAAAAJ&hl=en)
 - Harrisen Richards  
 - [Penelope Anema](https://www.linkedin.com/in/penelopeanema)
 - [Sida Chen](https://www.linkedin.com/in/chensida/)  
