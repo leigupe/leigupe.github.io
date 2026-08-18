@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Penn Power Electronics Research Lab (PENGUIN Lab)
+## Penn Power Electronics Research Lab
 Welcome! We are a research group passionate about building circuits and systems in power electronics. We explore new ways to convert and deliver electrical energy, aiming to make these systems smaller, more efficient, and better suited to emerging technologies. Our students combine fundamental ideas with hands-on design and experiments, and we are always curious about the new possibilities that better power electronics can enable.
 
 ## About Me
