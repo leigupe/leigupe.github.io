@@ -9,13 +9,7 @@ redirect_from:
 ---
 
 ## Penn Power Electronics Research Lab (PENGUIN Lab)
-Welcome! We are a research group passionate about building circuits — especially in the field of [power electronics](https://en.wikipedia.org/wiki/Power_electronics). Our focus is on creating efficient, compact systems that power exciting technologies, including renewable energy platforms, AI hardware, Magnetic Resonance Imaging (MRI) machines, semiconductor processing tools, robotics, and electric vehicles. [Here](https://leigupe.github.io/research/) are some highlights from our past work. 
-<!-- I lead the Penn Power Electronics Research Lab. My lab focuses on technology innovations centered around wide bandgap devices, high-frequency magnetic components, circuits and architectures, and others to improve the efficiency and shrink the requisite size of power conversion for a wide range of essential applications. -->
-
-Our research is deeply interdisciplinary, drawing from circuits, electromagnetics, optics, piezoelectricity, semiconductor devices, and control theory. If any of this sparks your interest, feel free to reach out! Here are a few of the areas we’re currently exploring:
-- Innovative power delivery: Inductive power transfer, integrated optical power delivery and sensing;  
-- Miniaturized energy conversion: High-frequency circuits, wide-bandgap semiconductors, integrated power management, piezoelectric passives;  
-- Powering medical technologies: MRI, ultrasound, X-rays, and implantable devices.
+Welcome! We are a research group passionate about building circuits and systems in power electronics. We explore new ways to convert and deliver electrical energy, aiming to make these systems smaller, more efficient, and better suited to emerging technologies. Our students combine fundamental ideas with hands-on design and experiments, and we are always curious about the new possibilities that better power electronics can enable.
 
 ## About Me
 <!-- I am an Assistant Professor in the [Electrical and Systems Engineering Department](https://www.ese.upenn.edu) at the University of Pennsylvania. My research broadly focuses on power electronics, energy conversion, and medical devices. I am also a visiting researcher in the Circuits Group at [NVIDIA Research](https://www.nvidia.com/en-us/research/), where I work on data center power delivery. Before joining NVIDIA, I worked with an amazing team on [HomePod](https://www.apple.com/homepod/) at Apple. I received my Ph.D. in Electrical Engineering from Stanford in 2019. -->
