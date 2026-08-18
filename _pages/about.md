@@ -11,26 +11,26 @@ redirect_from:
 ## Penn Power Electronics Research Lab
 Welcome! We are a research group passionate about building circuits and systems in power electronics. We explore new ways to convert and deliver electrical energy, aiming to make these systems smaller, more efficient, and better suited to emerging technologies. Our students combine fundamental ideas with hands-on design and experiments, and we are always curious about the new possibilities that better power electronics can enable.
 
-## About Me
+## About Lei Gu
 I’m an Assistant Professor in the Department of [Electrical and Systems Engineering](https://www.ese.upenn.edu) at the University of Pennsylvania, where I lead the PENGUIN Lab. My research focuses on power electronics and energy conversion. I’m also a visiting researcher with the Circuits Group at [NVIDIA Research](https://www.nvidia.com/en-us/research/). Before joining Penn, I worked on [HomePod](https://www.apple.com/homepod/) at Apple, and I received my Ph.D. in Electrical Engineering from Stanford in 2019.
 
 A formal third-person [bio](/bio/) is also available.
 
 ## People
-- [Aaron Khan](https://www.linkedin.com/in/aaron-khan-8b9465237)
-- [Ahmed Altunkaya](https://www.linkedin.com/in/ahmed-altunkaya)
-- [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao)  
-- [Cameron Woo](https://www.linkedin.com/in/cameron-woo)
-- [Gyu Cheol Lim](https://scholar.google.com/citations?user=yGswrkIAAAAJ&hl=en)
-- Harrisen Richards  
-- [Penelope Anema](https://www.linkedin.com/in/penelopeanema)
-- [Sida Chen](https://www.linkedin.com/in/chensida/)  
-- [Xiang Li](https://www.linkedin.com/in/xianglivt)
+- [Aaron Khan](https://www.linkedin.com/in/aaron-khan-8b9465237), Ph.D. student
+- [Ahmed Altunkaya](https://www.linkedin.com/in/ahmed-altunkaya), undergraduate researcher
+- [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao), Ph.D. student
+- [Cameron Woo](https://www.linkedin.com/in/cameron-woo), Ph.D. student
+- [Gyu Cheol Lim](https://scholar.google.com/citations?user=yGswrkIAAAAJ&hl=en), postdoctoral scholar
+- Harrisen Richards, undergraduate researcher
+- [Penelope Anema](https://www.linkedin.com/in/penelopeanema), Ph.D. student
+- [Sida Chen](https://www.linkedin.com/in/chensida/), Ph.D. student
+- [Xiang Li](https://www.linkedin.com/in/xianglivt), Ph.D. student
 
 ## Alumni
-- [Rohan Panday](https://www.linkedin.com/in/rohan-panday) 
-- [Victor Gao](https://www.linkedin.com/in/victor-y-gao)  
-- [Zhiguo Tong](https://scholar.google.com/citations?user=3_I6bksAAAAJ&hl=en)
+- [Rohan Panday](https://www.linkedin.com/in/rohan-panday), undergraduate researcher
+- [Victor Gao](https://www.linkedin.com/in/victor-y-gao), undergraduate researcher
+- [Zhiguo Tong](https://scholar.google.com/citations?user=3_I6bksAAAAJ&hl=en), postdoctoral researcher
 
 ## Join Us
 
