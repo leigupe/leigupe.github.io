@@ -7,6 +7,6 @@ redirect_from:
   - /bio
 ---
 
-Lei Gu is an Assistant Professor in the Department of Electrical and Systems Engineering at the University of Pennsylvania, where he leads research in high-frequency power electronics, RF power systems, and high-voltage integration. His group explores applications ranging from wireless energy transfer and medical imaging to power delivery for advanced computing.
+Lei Gu is an Assistant Professor in the Department of Electrical and Systems Engineering at the University of Pennsylvania. His research focuses on power electronics and energy conversion, with an emphasis on compact, efficient circuits and systems for emerging technologies.
 
-Lei received his Ph.D. and M.S. in Electrical Engineering from Stanford University and his B.Eng. from the Harbin Institute of Technology. Prior to joining Penn, he worked at Apple and served as a visiting researcher with NVIDIA. His work has been recognized with the NSF CAREER Award, the IEEE Transactions on Power Electronics Prize Paper Award, and several best paper awards from IEEE conferences.
+Lei received his Ph.D. and M.S. in Electrical Engineering from Stanford University and his B.Eng. from the Harbin Institute of Technology. Before joining Penn, he worked at Apple, and he is currently a visiting researcher with NVIDIA Research. His work has been recognized with the NSF CAREER Award, the IEEE Transactions on Power Electronics Prize Paper Award, and several best paper awards from IEEE conferences.
