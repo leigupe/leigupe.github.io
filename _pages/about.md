@@ -110,17 +110,8 @@ Philadelphia, PA 19104
 ### Power Electronics Research Lab
 <img src="/images/pelab_s.jpg" alt="Power Lab" width="300"/>
 
-## Collaborators 
-Prof. Firooz Aflatouni\
-Prof. Troy Olsson\
-Prof. Mark Allen
+## Collaborations
+Penn Engineering, Penn Medicine, and Yale
 
-## Sponsors 
-<!-- ![Moore Building](/images/moore.jpg =x250)
-![Power Lab](/images/pelab_s.jpg =x250) -->
-
-<!-- ### Moore Building -->
-<img src="/images/upenn-logo.jpg" width="100"/>
-<img src="/images/ARPA-E_logo.png" width="100"/>
-<img src="/images/nsf_logo.png" width="50"/>
-<img src="/images/lam.png" width="100"/>
+## Research Support
+ARPA-E &middot; NSF &middot; ARPA-H &middot; Lam Research &middot; Methode Electronics
