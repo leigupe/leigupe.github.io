@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gu | Assistant Professor @ Penn Engineering"
+title                    : "Lei Gu, Penn Engineering"
 title_separator          : "-"
 name                     : &name "Lei Gu"
 description              : &description "Lei Gu and the PENGUIN Lab at Penn develop power electronics and energy conversion systems for emerging technologies."
