@@ -57,7 +57,22 @@ I expect to take on new graduate students in the near future. If you're interest
 ## Updates
 
 
-[June 2025] Congratulations to Victor, Aobo, and Sida for receiving the [IEEE ITEC+ 2025 Best Student Paper Award](https://itec-conf.com/) for their paper, “Analysis and Comparison of Compensation Networks for Multi-Megahertz Inductive Power Transfer.”
+[July 2026] We welcomed students from [The Franklin Institute's STEM Scholars program](https://fi.edu/en/science-and-education/stem-scholars) to Penn for lab tours and a hands-on Arduino PWM activity.
+
+<img src="/images/franklin_stem_01.jpg" width="300"/> <img src="/images/franklin_stem_05.jpg" width="300"/>
+<img src="/images/franklin_stem_02.jpg" width="300"/> <img src="/images/franklin_stem_03.jpg" width="300"/>
+
+[Apr. 2026] I gave an [IEEE PELS webinar](https://resourcecenter.ieee-pels.org/education/webinars/pels_edu_web_gu_041626_sld) on design considerations for multi-MHz wireless power transfer, from compensation networks to coil architectures.
+
+[Mar. 2026] We presented two papers at [IEEE APEC 2026](https://apec2026.eventscribe.net/ajaxcalls/presenterInfo.asp?PresenterId=2256509) on data-center power delivery and MRI RF amplifiers. I also co-presented a professional education seminar on advanced gate drivers. [#APEC26_PowerSmoothing](https://ieeexplore.ieee.org/document/11516732) [#APEC26_MRI_PA](https://ieeexplore.ieee.org/document/11517136)
+
+[Oct. 2025] Our paper comparing 50 MHz single-ended and isolated push-pull Class-E amplifiers was presented at IEEE ECCE 2025. [#ECCE25_ClassE](https://doi.org/10.1109/ECCE58356.2025.11259896)
+
+[June 2025] Aobo and Cameron presented our work on an energy-efficient pulsed magnet for MRI and an optical gate driver for SiC MOSFETs at IEEE COMPEL 2025 in Knoxville, TN. [#COMPEL25_Yang](https://ieeexplore.ieee.org/document/11121212) [#COMPEL25_Woo](https://ieeexplore.ieee.org/document/11121211)
+
+<img src="/images/aobo_compel2.jpg" width="300"/> <img src="/images/cam_compel2.jpg" width="300"/>
+
+[June 2025] Congratulations to Victor, Aobo, and Sida for receiving the [IEEE ITEC+ 2025 Best Student Paper Award](https://itec-conf.com/) for their paper, “Analysis and Comparison of Compensation Networks for Multi-Megahertz Inductive Power Transfer.” [#ITEC25_Gao](https://ieeexplore.ieee.org/document/11097953)
 
 [June 2025] We received [the NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442316&HistoricalAwards=false). 
 
