@@ -17,20 +17,20 @@ I’m an Assistant Professor in the Department of [Electrical and Systems Engine
 A formal third-person [bio](/bio/) is also available.
 
 ## People
-- [Aaron Khan](https://www.linkedin.com/in/aaron-khan-8b9465237), Ph.D. student
-- [Ahmed Altunkaya](https://www.linkedin.com/in/ahmed-altunkaya), undergraduate researcher
-- [Aobo Yang](https://scholar.google.com/citations?user=vD1FVe4AAAAJ&hl=en&authuser=1&oi=ao), Ph.D. student
-- [Cameron Woo](https://www.linkedin.com/in/cameron-woo), Ph.D. student
-- [Gyu Cheol Lim](https://scholar.google.com/citations?user=yGswrkIAAAAJ&hl=en), postdoctoral scholar
+- Aaron Khan, Ph.D. student
+- Ahmed Altunkaya, undergraduate researcher
+- Aobo Yang, Ph.D. student
+- Cameron Woo, Ph.D. student
+- Gyu Cheol Lim, postdoctoral scholar
 - Harrisen Richards, undergraduate researcher
-- [Penelope Anema](https://www.linkedin.com/in/penelopeanema), Ph.D. student
+- Penelope Anema, Ph.D. student
 - Sida Chen, Ph.D. student
-- [Xiang Li](https://www.linkedin.com/in/xianglivt), Ph.D. student
+- Xiang Li, Ph.D. student
 
 ## Alumni
-- [Rohan Panday](https://www.linkedin.com/in/rohan-panday), undergraduate researcher
-- [Victor Gao](https://www.linkedin.com/in/victor-y-gao), undergraduate researcher
-- [Zhiguo Tong](https://scholar.google.com/citations?user=3_I6bksAAAAJ&hl=en), postdoctoral researcher
+- Rohan Panday, undergraduate researcher
+- Victor Gao, undergraduate researcher
+- Zhiguo Tong, postdoctoral researcher
 
 ## Join Us
 
