@@ -24,7 +24,7 @@ A formal third-person [bio](/bio/) is also available.
 - [Gyu Cheol Lim](https://scholar.google.com/citations?user=yGswrkIAAAAJ&hl=en), postdoctoral scholar
 - Harrisen Richards, undergraduate researcher
 - [Penelope Anema](https://www.linkedin.com/in/penelopeanema), Ph.D. student
-- [Sida Chen](https://www.linkedin.com/in/chensida/), Ph.D. student
+- Sida Chen, Ph.D. student
 - [Xiang Li](https://www.linkedin.com/in/xianglivt), Ph.D. student
 
 ## Alumni
