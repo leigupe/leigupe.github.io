@@ -5,6 +5,8 @@ excerpt: "Journal articles, conference papers, and selected earlier work."
 author_profile: true
 ---
 
+## Journal Publications
+
 L. Gu, V. Gao, A. Yang, T. Chen and J. Rivas-Davila, “Design Considerations for Multimegahertz Resonant Inductive Power Transfer,” *IEEE Journal of Emerging and Selected Topics in Power Electronics*, vol. 13, no. 4, pp. 4336-4347, Aug. 2025.  
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10833657) · [DOI](https://doi.org/10.1109/JESTPE.2025.3527396)
 
@@ -62,6 +64,8 @@ L. Gu, Q. Stedman, M. Rasmussen, C. Pai, K. Brenner, B. Ma, A. S. Ergun, B. Khur
 
 <details markdown="1">
 <summary>More earlier work</summary>
+
+### Journal Publications
 
 T. Chen, L. Gu, W. Dally, J. Rivas-Davila and J. Fox, “A Novel High-Efficiency Three-Phase Multilevel PV Inverter with Reduced DC-Link Capacitance,” *IEEE Transactions on Industrial Electronics*, vol. 70, no. 5, pp. 4751-4761, May 2023.  
 [DOI](https://doi.org/10.1109/TIE.2022.3187581)
