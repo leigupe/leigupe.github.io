@@ -181,5 +181,3 @@ W. Liang, L. Raymond, L. Gu and J. Rivas, “27.12MHz GaN resonant power convert
 [DOI](https://doi.org/10.1109/ECCE.2015.7310260)
 
 </details>
-
-PDF links provide author manuscripts or openly available published papers. DOI links point to the published versions.
