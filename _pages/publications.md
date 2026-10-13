@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: null
+title: ""
 excerpt: "Journal articles, conference papers, and selected earlier work."
 author_profile: true
 ---
