@@ -1,0 +1,23 @@
+<ul class="publication-list">
+  {% for publication in include.publications %}
+  {% unless include.omit_selected and publication.selected_earlier %}
+  <li id="{{ publication.id | downcase }}">
+    <div class="publication-list__entry">
+      <p>
+        {% for author in publication.authors %}{% if author == 'L. Gu' %}<strong>{{ author | escape }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless %}{% endfor %},
+        &ldquo;{{ publication.title | escape }},&rdquo;
+        <em>{{ publication.venue | escape }}</em>, {{ publication.citation_details | escape }}.
+        {% if publication.publication_kind == 'conference abstract' %}<span class="publication-list__kind">Conference abstract.</span>{% endif %}
+        {% if publication.award %}<strong class="publication-list__award">{{ publication.award | escape }}.</strong>{% endif %}
+      </p>
+      <p class="publication-list__links">
+        {% if publication.pdf_url %}<a href="{{ publication.pdf_url | escape }}" aria-label="{% if publication.pdf_version == 'Published PDF' %}Published{% else %}Author{% endif %} PDF: {{ publication.title | escape }}">PDF</a><span aria-hidden="true">&middot;</span>{% endif %}
+        <a href="https://doi.org/{{ publication.doi | escape }}" aria-label="Published version: {{ publication.title | escape }}">DOI</a>
+        {% if publication.code_url %}<span aria-hidden="true">&middot;</span><a href="{{ publication.code_url | escape }}">Code</a>{% endif %}
+        {% if publication.data_url %}<span aria-hidden="true">&middot;</span><a href="{{ publication.data_url | escape }}">Data</a>{% endif %}
+      </p>
+    </div>
+  </li>
+  {% endunless %}
+  {% endfor %}
+</ul>

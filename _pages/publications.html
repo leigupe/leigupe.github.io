@@ -1,0 +1,46 @@
+---
+permalink: /publications/
+title: "Publications"
+excerpt: "Journal articles, conference papers, and author manuscripts from the Penn Power Electronics Research Lab."
+author_profile: true
+---
+
+<div class="publications">
+  <p>Publications from the Penn Power Electronics Research Lab, with selected earlier work listed below.</p>
+  <p class="publications__resources">
+    <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+  </p>
+  <nav class="publications__nav" aria-label="Publication sections">
+    <a href="#journal-papers">Journal papers</a>
+    <a href="#conference-publications">Conference publications</a>
+    <a href="#selected-earlier-work">Selected earlier work</a>
+    <a href="#earlier-work">More earlier work</a>
+  </nav>
+
+  {% assign current_journals = site.data.publications | where: 'type', 'journal' | where: 'prior_work', false %}
+  {% assign current_conferences = site.data.publications | where: 'type', 'conference' | where: 'prior_work', false %}
+  {% assign earlier_journals = site.data.publications | where: 'type', 'journal' | where: 'prior_work', true %}
+  {% assign earlier_conferences = site.data.publications | where: 'type', 'conference' | where: 'prior_work', true %}
+  {% assign selected_earlier = site.data.publications | where: 'selected_earlier', true | sort: 'selected_order' %}
+
+  <h2 id="journal-papers">Journal Papers</h2>
+  {% include publication-list.html publications=current_journals %}
+
+  <h2 id="conference-publications">Conference Publications</h2>
+  {% include publication-list.html publications=current_conferences %}
+
+  <section class="publications__selected" aria-labelledby="selected-earlier-work">
+    <h2 id="selected-earlier-work">Selected Earlier Work</h2>
+    {% include publication-list.html publications=selected_earlier %}
+  </section>
+
+  <details class="publications__earlier" id="earlier-work">
+    <summary>More earlier work</summary>
+    <h3>Journal Papers</h3>
+    {% include publication-list.html publications=earlier_journals omit_selected=true %}
+    <h3>Conference Publications</h3>
+    {% include publication-list.html publications=earlier_conferences omit_selected=true %}
+  </details>
+
+  <p class="publications__note">PDF links provide author manuscripts or openly available published papers. DOI links point to the published versions.</p>
+</div>

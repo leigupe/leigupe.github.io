@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "J15",
+    "type": "journal",
+    "title": "Design Considerations for Multimegahertz Resonant Inductive Power Transfer",
+    "authors": [
+      "L. Gu",
+      "V. Gao",
+      "A. Yang",
+      "T. Chen",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+    "year": 2025,
+    "doi": "10.1109/JESTPE.2025.3527396",
+    "prior_work": false,
+    "volume": "13",
+    "issue": "4",
+    "pages": "4336-4347",
+    "month": "Aug.",
+    "advised_students": [
+      "V. Gao",
+      "A. Yang"
+    ],
+    "citation_details": "vol. 13, no. 4, pp. 4336-4347, Aug. 2025",
+    "publication_kind": "journal article",
+    "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10833657",
+    "pdf_version": "Published PDF"
+  },
+  {
+    "id": "J14",
+    "type": "journal",
+    "title": "A Novel High-Efficiency Three-Phase Multilevel PV Inverter with Reduced DC-Link Capacitance",
+    "authors": [
+      "T. Chen",
+      "L. Gu",
+      "W. Dally",
+      "J. Rivas-Davila",
+      "J. Fox"
+    ],
+    "venue": "IEEE Transactions on Industrial Electronics",
+    "year": 2023,
+    "doi": "10.1109/TIE.2022.3187581",
+    "prior_work": true,
+    "volume": "70",
+    "issue": "5",
+    "pages": "4751-4761",
+    "month": "May",
+    "citation_details": "vol. 70, no. 5, pp. 4751-4761, May 2023",
+    "publication_kind": "journal article",
+    "cv_prior_work": false
+  },
+  {
+    "id": "J13",
+    "type": "journal",
+    "title": "Wideband PPT Class Φ₂ Inverter using Phase-Switched Impedance Modulation and Reactance Compensation",
+    "authors": [
+      "Z. Tong",
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Transactions on Industrial Electronics",
+    "year": 2022,
+    "doi": "10.1109/TIE.2021.3090710",
+    "prior_work": true,
+    "volume": "69",
+    "issue": "6",
+    "pages": "5724-5734",
+    "month": "June",
+    "citation_details": "vol. 69, no. 6, pp. 5724-5734, June 2022",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J12",
+    "type": "journal",
+    "title": "Fixed-Frequency Control of Piezoelectric Resonator DC-DC Converters for Spurious Mode Avoidance",
+    "authors": [
+      "E. Stolt",
+      "W. D. Braun",
+      "L. Gu",
+      "J. Segovia-Fernandez",
+      "S. Chakraborty",
+      "R. Lu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Open Journal of Power Electronics",
+    "year": 2021,
+    "doi": "10.1109/OJPEL.2021.3128509",
+    "prior_work": true,
+    "volume": "2",
+    "pages": "582-590",
+    "citation_details": "vol. 2, pp. 582-590, 2021",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J11",
+    "type": "journal",
+    "title": "Optimized Resonators for Piezoelectric Power Conversion",
+    "authors": [
+      "W. D. Braun",
+      "E. Stolt",
+      "L. Gu",
+      "J. Segovia-Fernandez",
+      "S. Chakraborty",
+      "R. Lu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Open Journal of Power Electronics",
+    "year": 2021,
+    "doi": "10.1109/OJPEL.2021.3067020",
+    "prior_work": true,
+    "volume": "2",
+    "pages": "212-224",
+    "citation_details": "vol. 2, pp. 212-224, 2021",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J10",
+    "type": "journal",
+    "title": "6.78 MHz Wireless Power Transfer with Self-Resonant Coils at 95% DC-DC Efficiency",
+    "authors": [
+      "L. Gu",
+      "G. Zulauf",
+      "A. Stein",
+      "P. A. Kyaw",
+      "T. Chen",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Transactions on Power Electronics",
+    "year": 2021,
+    "doi": "10.1109/TPEL.2020.3014042",
+    "prior_work": true,
+    "copyright_year": 2020,
+    "volume": "36",
+    "issue": "3",
+    "pages": "2456-2460",
+    "month": "March",
+    "award": "Transactions Prize Letter Award",
+    "citation_details": "vol. 36, no. 3, pp. 2456-2460, March 2021",
+    "publication_kind": "journal article",
+    "selected_earlier": true,
+    "selected_order": 1,
+    "pdf_url": "https://drive.google.com/file/d/1AqrIWVC3C4R8Dc6ABQGELHPlZ2si3VPO/view?usp=drivesdk",
+    "pdf_version": "Author manuscript"
+  },
+  {
+    "id": "J9",
+    "type": "journal",
+    "title": "Push-Pull Class Φ₂ RF Power Amplifier",
+    "authors": [
+      "L. Gu",
+      "G. Zulauf",
+      "Z. Zhang",
+      "S. Chakraborty",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Transactions on Power Electronics",
+    "year": 2020,
+    "doi": "10.1109/TPEL.2020.2981312",
+    "prior_work": true,
+    "volume": "35",
+    "issue": "10",
+    "pages": "10515-10531",
+    "month": "Oct.",
+    "citation_details": "vol. 35, no. 10, pp. 10515-10531, Oct. 2020",
+    "publication_kind": "journal article",
+    "selected_earlier": true,
+    "selected_order": 3,
+    "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9039741",
+    "pdf_version": "Published PDF"
+  },
+  {
+    "id": "J8",
+    "type": "journal",
+    "title": "Effect of Class 2 Ceramic Capacitor Variations on Switched Capacitor and Resonant Switched Capacitor Converters",
+    "authors": [
+      "J. Xu",
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+    "year": 2020,
+    "doi": "10.1109/JESTPE.2019.2951807",
+    "prior_work": true,
+    "volume": "8",
+    "issue": "3",
+    "pages": "2268-2275",
+    "month": "Sept.",
+    "citation_details": "vol. 8, no. 3, pp. 2268-2275, Sept. 2020",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J7",
+    "type": "journal",
+    "title": "High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation",
+    "authors": [
+      "L. Gu",
+      "K. Surakitbovorn",
+      "G. Zulauf",
+      "S. Chakraborty",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+    "year": 2020,
+    "doi": "10.1109/JESTPE.2019.2935732",
+    "prior_work": true,
+    "volume": "8",
+    "issue": "3",
+    "pages": "1983-1993",
+    "month": "Sept.",
+    "citation_details": "vol. 8, no. 3, pp. 1983-1993, Sept. 2020",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J6",
+    "type": "journal",
+    "title": "Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications",
+    "authors": [
+      "J. Xu",
+      "L. Gu",
+      "Z. Ye",
+      "S. Kargarrazi",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Transactions on Power Electronics",
+    "year": 2020,
+    "doi": "10.1109/TPEL.2019.2954322",
+    "prior_work": true,
+    "volume": "35",
+    "issue": "6",
+    "pages": "6340-6349",
+    "month": "June",
+    "citation_details": "vol. 35, no. 6, pp. 6340-6349, June 2020",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J5",
+    "type": "journal",
+    "title": "A Multi-Resonant Gate Driver for High-Frequency Resonant Converters",
+    "authors": [
+      "L. Gu",
+      "Z. Tong",
+      "W. Liang",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Transactions on Industrial Electronics",
+    "year": 2020,
+    "doi": "10.1109/TIE.2019.2899557",
+    "prior_work": true,
+    "volume": "67",
+    "issue": "2",
+    "pages": "1405-1414",
+    "month": "Feb.",
+    "citation_details": "vol. 67, no. 2, pp. 1405-1414, Feb. 2020",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J4",
+    "type": "journal",
+    "title": "On the Techniques to Utilize SiC Power Devices in High- and Very High-Frequency Power Converters",
+    "authors": [
+      "Z. Tong",
+      "L. Gu",
+      "Z. Ye",
+      "K. Surakitbovorn",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Transactions on Power Electronics",
+    "year": 2019,
+    "doi": "10.1109/TPEL.2019.2904591",
+    "prior_work": true,
+    "volume": "34",
+    "issue": "12",
+    "pages": "12181-12192",
+    "month": "Dec.",
+    "citation_details": "vol. 34, no. 12, pp. 12181-12192, Dec. 2019",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J3",
+    "type": "journal",
+    "title": "An Integrated RF Power Delivery and Plasma Micro-Thruster System for Nano-Satellites",
+    "authors": [
+      "W. Liang",
+      "C. Charles",
+      "L. Raymond",
+      "A. Stuchbery",
+      "K. Surakitbovorn",
+      "L. Gu",
+      "R. Boswell",
+      "J. Rivas-Davila"
+    ],
+    "venue": "Frontiers in Physics",
+    "year": 2018,
+    "doi": "10.3389/fphy.2018.00115",
+    "prior_work": true,
+    "volume": "6",
+    "pages": "115",
+    "month": "Oct.",
+    "citation_details": "vol. 6, pp. 115, Oct. 2018",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J2",
+    "type": "journal",
+    "title": "A Wide-Input-Range High-Efficiency Step-Down Power Factor Correction Converter Using a Variable Frequency Multiplier Technique",
+    "authors": [
+      "L. Gu",
+      "W. Liang",
+      "M. Praglin",
+      "S. Chakraborty",
+      "J. Rivas-Davila"
+    ],
+    "venue": "IEEE Transactions on Power Electronics",
+    "year": 2018,
+    "doi": "10.1109/TPEL.2018.2796582",
+    "prior_work": true,
+    "volume": "33",
+    "issue": "11",
+    "pages": "9399-9411",
+    "month": "Nov.",
+    "citation_details": "vol. 33, no. 11, pp. 9399-9411, Nov. 2018",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "J1",
+    "type": "journal",
+    "title": "Energy Consumption Analysis of Constant Voltage and Constant Current Operations in Capacitive Deionization",
+    "authors": [
+      "Y. Qu",
+      "P. G. Campbell",
+      "L. Gu",
+      "J. M. Knipe",
+      "E. Dzenitis",
+      "J. G. Santiago",
+      "M. Stadermann"
+    ],
+    "venue": "Desalination",
+    "year": 2016,
+    "doi": "10.1016/j.desal.2016.09.014",
+    "prior_work": true,
+    "volume": "400",
+    "pages": "18–24",
+    "citation_details": "vol. 400, pp. 18–24, 2016",
+    "publication_kind": "journal article"
+  },
+  {
+    "id": "C39",
+    "type": "conference",
+    "title": "An Integrated Photonic Magneto-Optomechanical Modulator for Protection of Switching Power Converters",
+    "authors": [
+      "F. J. Lynch",
+      "J. B. Vyletel",
+      "A. Mondal",
+      "A. Yang",
+      "M. Erdil",
+      "F. Aflatouni",
+      "L. Gu",
+      "M. G. Allen"
+    ],
+    "venue": "2026 IEEE 39th International Conference on Micro Electro Mechanical Systems (MEMS)",
+    "year": 2026,
+    "doi": "10.1109/MEMS64181.2026.11419598",
+    "prior_work": false,
+    "pages": "183-187",
+    "advised_students": [
+      "A. Yang"
+    ],
+    "citation_details": "Salzburg, Austria, 2026, pp. 183-187",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/15EAfWgAl4haUh9D3_nvmnzwjotX0fxWa/view?usp=drivesdk",
+    "pdf_version": "Author accepted manuscript"
+  },
+  {
+    "id": "C38",
+    "type": "conference",
+    "title": "Active Power Buffer for Smoothing GPU Workload Transients in Data Center Power Delivery",
+    "authors": [
+      "L. Gu",
+      "A. Nabih",
+      "S. Kudva",
+      "M. Mosa",
+      "R. Abramson",
+      "Y. Elasser",
+      "C. T. Gray"
+    ],
+    "venue": "2026 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+    "year": 2026,
+    "doi": "10.1109/APEC51134.2026.11516732",
+    "prior_work": false,
+    "pages": "158-163",
+    "citation_details": "San Antonio, TX, USA, 2026, pp. 158-163",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1v3o31a5NUPaEKYjPhQAEsOZzOa9E2lNE/view?usp=drivesdk",
+    "pdf_version": "Author accepted manuscript"
+  },
+  {
+    "id": "C37",
+    "type": "conference",
+    "title": "Design and Characterization of a 64 MHz Power Amplifier for Continuous Arterial Spin Labeling",
+    "authors": [
+      "S. Chen",
+      "A. Yang",
+      "M. D. Tisdall",
+      "M. Taso",
+      "G. Mizsei",
+      "J. A. Detre",
+      "L. Gu"
+    ],
+    "venue": "2026 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+    "year": 2026,
+    "doi": "10.1109/APEC51134.2026.11517136",
+    "prior_work": false,
+    "pages": "723-728",
+    "advised_students": [
+      "S. Chen",
+      "A. Yang"
+    ],
+    "citation_details": "San Antonio, TX, USA, 2026, pp. 723-728",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1omGfOykpzdXVBZ21Jj8H02xfq2g_hPCi/view?usp=drivesdk",
+    "pdf_version": "Author accepted manuscript"
+  },
+  {
+    "id": "C36",
+    "type": "conference",
+    "title": "Coaxial Through-Silicon Via Micro-Transformers: Design, Fabrication, and Power Conversion Demonstration",
+    "authors": [
+      "Y. Ding",
+      "X. Wang",
+      "A. Yang",
+      "Y. Zhu",
+      "M. Chen",
+      "L. Gu",
+      "M. G. Allen"
+    ],
+    "venue": "2026 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+    "year": 2026,
+    "doi": "10.1109/APEC51134.2026.11516665",
+    "prior_work": false,
+    "pages": "1791-1795",
+    "advised_students": [
+      "A. Yang"
+    ],
+    "citation_details": "San Antonio, TX, USA, 2026, pp. 1791-1795",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1r9zlcEwweC4NCnb-PgwLFLss7C0UmWbB/view?usp=drivesdk",
+    "pdf_version": "Author manuscript"
+  },
+  {
+    "id": "C35",
+    "type": "conference",
+    "title": "Low Profile, Laminated NiFe Transformers for High-Frequency LLC Resonant Converters",
+    "authors": [
+      "X. Wang",
+      "F. Jamshed",
+      "V. Gao",
+      "L. Gu",
+      "A. Nasiri",
+      "M. G. Allen"
+    ],
+    "venue": "2026 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+    "year": 2026,
+    "doi": "10.1109/APEC51134.2026.11516855",
+    "prior_work": false,
+    "pages": "2627-2632",
+    "advised_students": [
+      "V. Gao"
+    ],
+    "citation_details": "San Antonio, TX, USA, 2026, pp. 2627-2632",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1yqNDPK-bElzb8hqqS2MlLQxr00u82Ivj/view?usp=drivesdk",
+    "pdf_version": "Author manuscript"
+  },
+  {
+    "id": "C34",
+    "type": "conference",
+    "title": "Comparison of 50 MHz Single-Ended and Isolated Push-Pull Class-E Amplifiers",
+    "authors": [
+      "A. Yang",
+      "X. Wang",
+      "S. Chen",
+      "L. Gu"
+    ],
+    "venue": "2025 IEEE Energy Conversion Congress and Exposition (ECCE)",
+    "year": 2025,
+    "doi": "10.1109/ECCE58356.2025.11259896",
+    "prior_work": false,
+    "pages": "1-6",
+    "advised_students": [
+      "A. Yang",
+      "S. Chen"
+    ],
+    "citation_details": "Philadelphia, Pennsylvania, USA, 2025, pp. 1-6",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1t5hfHEQhtzyRRMtG1BJJ7imtyjoXu0Up/view?usp=drivesdk",
+    "pdf_version": "Author accepted manuscript"
+  },
+  {
+    "id": "C33",
+    "type": "conference",
+    "title": "Discrete Demonstration of Heterogeneous Photonic-Electronic Integrated Optical Gate Driver for SiC MOSFETs",
+    "authors": [
+      "C. Woo",
+      "A. Yang",
+      "A. Mondal",
+      "M. Erdil",
+      "F. Aflatouni",
+      "L. Gu"
+    ],
+    "venue": "2025 IEEE 26th Workshop on Control and Modeling of Power Electronics (COMPEL)",
+    "year": 2025,
+    "doi": "10.1109/COMPEL57166.2025.11121211",
+    "prior_work": false,
+    "pages": "1-7",
+    "advised_students": [
+      "C. Woo",
+      "A. Yang"
+    ],
+    "citation_details": "Knoxville, Tennessee, USA, 2025, pp. 1-7",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1zsdeqE1mjWRanUiRibk6ruNYXN1RnYZg/view?usp=drivesdk",
+    "pdf_version": "Author accepted manuscript"
+  },
+  {
+    "id": "C32",
+    "type": "conference",
+    "title": "An Energy-Efficient Pulsed Magnet for Magnetic Resonance Imaging",
+    "authors": [
+      "A. Yang",
+      "V. Gao",
+      "L. Gu"
+    ],
+    "venue": "2025 IEEE 26th Workshop on Control and Modeling of Power Electronics (COMPEL)",
+    "year": 2025,
+    "doi": "10.1109/COMPEL57166.2025.11121212",
+    "prior_work": false,
+    "pages": "1-6",
+    "advised_students": [
+      "A. Yang",
+      "V. Gao"
+    ],
+    "citation_details": "Knoxville, Tennessee, USA, 2025, pp. 1-6",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1kW7J3Ao02WeepS2NoeKZdKq1xC_wFli6/view?usp=drivesdk",
+    "pdf_version": "Author accepted manuscript"
+  },
+  {
+    "id": "C31",
+    "type": "conference",
+    "title": "Analysis and Comparison of Compensation Networks for Multi-Megahertz Inductive Power Transfer",
+    "authors": [
+      "V. Gao",
+      "A. Yang",
+      "S. Chen",
+      "L. Gu"
+    ],
+    "venue": "2025 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)",
+    "year": 2025,
+    "doi": "10.1109/ITEC63604.2025.11097953",
+    "prior_work": false,
+    "pages": "1-6",
+    "award": "Best Student Paper Award",
+    "advised_students": [
+      "V. Gao",
+      "A. Yang",
+      "S. Chen"
+    ],
+    "citation_details": "Anaheim, CA, USA, 2025, pp. 1-6",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1xi77qjSOxvq3DkwaqZlokqA6_cMvcZlJ/view?usp=drivesdk",
+    "pdf_version": "Author manuscript"
+  },
+  {
+    "id": "C30",
+    "type": "conference",
+    "title": "Novel Pulsed Electromagnet Design with Wide-bandgap Power Semiconductor for Low-field Portable MRI System",
+    "authors": [
+      "A. Yang",
+      "L. Gu"
+    ],
+    "venue": "2025 ISMRM & ISMRT Annual Meeting & Exhibition",
+    "year": 2025,
+    "doi": "10.58530/2025/4983",
+    "prior_work": false,
+    "month": "May",
+    "advised_students": [
+      "A. Yang"
+    ],
+    "citation_details": "Honolulu, Hawaii, on 10-15 May 2025",
+    "publication_kind": "conference abstract",
+    "abstract_number": "4983"
+  },
+  {
+    "id": "C29",
+    "type": "conference",
+    "title": "A wideband push-pull Φ₂ amplifier with PCB inductors and Rogowski coils for RF plasma generators",
+    "authors": [
+      "S. Chen",
+      "L. Gu"
+    ],
+    "venue": "2024 IEEE 25th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2024,
+    "doi": "10.1109/COMPEL57542.2024.10613998",
+    "prior_work": false,
+    "pages": "1-6",
+    "month": "June",
+    "advised_students": [
+      "S. Chen"
+    ],
+    "citation_details": "June 2024, pp. 1-6",
+    "publication_kind": "conference paper",
+    "pdf_url": "https://drive.google.com/file/d/1H7YZqwQevQx7PVBt_JjutihjIapH8Bwf/view?usp=drivesdk",
+    "pdf_version": "Author accepted manuscript"
+  },
+  {
+    "id": "C28",
+    "type": "conference",
+    "title": "CMOS-Compatible Microfabrication of Laminated NiFe Cores for Wireless Power Transfer",
+    "authors": [
+      "X. Wang",
+      "S. Chen",
+      "Z. Zhang",
+      "L. Gu",
+      "M. G. Allen"
+    ],
+    "venue": "2024 Solid-State Sensors, Actuators, and Microsystems Workshop",
+    "year": 2024,
+    "doi": "10.31438/TRF.HH2024.93",
+    "prior_work": false,
+    "month": "June",
+    "advised_students": [
+      "S. Chen"
+    ],
+    "citation_details": "Hilton Head Island, SC, USA, June 2024, pp. 348-351",
+    "publication_kind": "conference paper",
+    "pages": "348-351",
+    "pdf_url": "https://transducer-research-foundation.org/technical_digests/HiltonHead_2024/hh2024_348.pdf",
+    "pdf_version": "Published PDF"
+  },
+  {
+    "id": "C27",
+    "type": "conference",
+    "title": "Hardware Demonstration of a Novel Three-Phase Multilevel Inverter",
+    "authors": [
+      "T. F. Chen",
+      "L. Gu",
+      "W. Dally",
+      "J. Fox"
+    ],
+    "venue": "2022 IEEE Energy Conversion Congress and Exposition (ECCE)",
+    "year": 2022,
+    "doi": "10.1109/ECCE50734.2022.9947528",
+    "prior_work": true,
+    "pages": "1-7",
+    "citation_details": "Detroit, MI, USA, 2022, pp. 1-7",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C26",
+    "type": "conference",
+    "title": "A High Frequency Resonant Gate Driver for SiC MOSFETs",
+    "authors": [
+      "Z. Ye",
+      "Z. Tong",
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2021 IEEE 22nd Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2021,
+    "doi": "10.1109/COMPEL52922.2021.9645982",
+    "prior_work": true,
+    "pages": "1-5",
+    "award": "Best Paper Award",
+    "citation_details": "2021, pp. 1-5",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C25",
+    "type": "conference",
+    "title": "Reverse Recovery Testing of Small-Signal Schottky Diodes",
+    "authors": [
+      "W. D. Braun",
+      "E. A. Stolt",
+      "L. Gu",
+      "J. M. Rivas-Davila"
+    ],
+    "venue": "2021 IEEE Energy Conversion Congress and Exposition (ECCE)",
+    "year": 2021,
+    "doi": "10.1109/ECCE47101.2021.9595177",
+    "prior_work": true,
+    "pages": "5611-5615",
+    "citation_details": "2021, pp. 5611-5615",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C24",
+    "type": "conference",
+    "title": "1.7 kW 6.78 MHz Wireless Power Transfer with Air-Core Coils at 95.7% DC-DC Efficiency",
+    "authors": [
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2021 IEEE Wireless Power Transfer Conference (WPTC)",
+    "year": 2021,
+    "doi": "10.1109/WPTC51349.2021.9458037",
+    "prior_work": true,
+    "pages": "1-4",
+    "award": "Best Paper Award Finalist",
+    "citation_details": "San Diego, CA, USA, 2021, pp. 1-4",
+    "publication_kind": "conference paper",
+    "selected_earlier": true,
+    "selected_order": 2,
+    "pdf_url": "https://drive.google.com/file/d/1Fiq5-U3y3qwFs3PLyHM7YY47Bdn-EXO9/view?usp=drivesdk",
+    "pdf_version": "Author manuscript"
+  },
+  {
+    "id": "C23",
+    "type": "conference",
+    "title": "Wideband Class Φ2 Power Amplifier for HF Applications",
+    "authors": [
+      "Z. Tong",
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2021 IEEE MTT-S International Microwave Symposium (IMS)",
+    "year": 2021,
+    "doi": "10.1109/IMS19712.2021.9574850",
+    "prior_work": true,
+    "pages": "725-728",
+    "citation_details": "Atlanta, GA, USA, 2021, pp. 725-728",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C22",
+    "type": "conference",
+    "title": "Design and Optimization of 6.78 MHz Wireless Power Transfer with Self-Resonant Coils",
+    "authors": [
+      "L. Gu",
+      "G. Zulauf",
+      "A. Stein",
+      "P. A. Kyaw",
+      "T. Chen",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2020 IEEE 21st Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2020,
+    "doi": "10.1109/COMPEL49091.2020.9265744",
+    "prior_work": true,
+    "pages": "1-5",
+    "citation_details": "Aalborg, Denmark, 2020, pp. 1-5",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C21",
+    "type": "conference",
+    "title": "Demonstration of GaN Impact Ionization Avalanche Transit-Time (IMPATT) Diode",
+    "authors": [
+      "D. Ji",
+      "B. Ercan",
+      "J. Zhuang",
+      "L. Gu",
+      "J. Rivas",
+      "S. Chowdhury"
+    ],
+    "venue": "2020 Device Research Conference (DRC)",
+    "year": 2020,
+    "doi": "10.1109/DRC50226.2020.9135173",
+    "prior_work": true,
+    "pages": "1-2",
+    "citation_details": "Columbus, OH, USA, 2020, pp. 1-2",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C20",
+    "type": "conference",
+    "title": "Compact Fast-Switching DC and Resonant RF Drivers for a Dual-Mode Imaging and HIFU 2D CMUT Array",
+    "authors": [
+      "Q. Stedman",
+      "L. Gu",
+      "C. Pai",
+      "M. Rasmussen",
+      "K. Brenner",
+      "B. Ma",
+      "A. S. Ergun",
+      "J. Rivas-Davila",
+      "B. Khuri-Yakub"
+    ],
+    "venue": "2019 IEEE International Ultrasonics Symposium (IUS)",
+    "year": 2019,
+    "doi": "10.1109/ULTSYM.2019.8925689",
+    "prior_work": true,
+    "pages": "1951-1954",
+    "citation_details": "Glasgow, United Kingdom, 2019, pp. 1951-1954",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C19",
+    "type": "conference",
+    "title": "Gate Drive for Very Fast Resonant Conversion using SiC Switch",
+    "authors": [
+      "Z. Tong",
+      "L. Gu",
+      "K. Surakitbovorn",
+      "J. Rivas"
+    ],
+    "venue": "2019 IEEE Energy Conversion Congress and Exposition (ECCE)",
+    "year": 2019,
+    "doi": "10.1109/ECCE.2019.8912635",
+    "prior_work": true,
+    "pages": "6647-6654",
+    "citation_details": "Baltimore, MD, USA, 2019, pp. 6647-6654",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C18",
+    "type": "conference",
+    "title": "Multiphase GaN Class-D Resonant Amplifier for High-Intensity Focused Ultrasound",
+    "authors": [
+      "L. Gu",
+      "Q. Stedman",
+      "M. Rasmussen",
+      "C. Pai",
+      "K. Brenner",
+      "B. Ma",
+      "A. S. Ergun",
+      "B. Khuri-Yakub",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2019 IEEE 20th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2019,
+    "doi": "10.1109/COMPEL.2019.8769682",
+    "prior_work": true,
+    "pages": "1-6",
+    "citation_details": "Toronto, Canada, 2019, pp. 1-6",
+    "publication_kind": "conference paper",
+    "selected_earlier": true,
+    "selected_order": 4,
+    "pdf_url": "https://drive.google.com/file/d/1MFYIlOp8q8Hp168IL32LFza7chQ8wSRU/view?usp=drivesdk",
+    "pdf_version": "Author manuscript"
+  },
+  {
+    "id": "C17",
+    "type": "conference",
+    "title": "On the Optimal Input Voltage of a Class-E Power Amplifier with GaN HEMTs at MHz Frequency Operation",
+    "authors": [
+      "K. Surakitbovorn",
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2019 IEEE 20th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2019,
+    "doi": "10.1109/COMPEL.2019.8769637",
+    "prior_work": true,
+    "pages": "1-8",
+    "citation_details": "Toronto, Canada, 2019, pp. 1-8",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C16",
+    "type": "conference",
+    "title": "Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies",
+    "authors": [
+      "J. Xu",
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2019 IEEE 20th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2019,
+    "doi": "10.1109/COMPEL.2019.8769703",
+    "prior_work": true,
+    "pages": "1-6",
+    "citation_details": "Toronto, Canada, 2019, pp. 1-6",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C15",
+    "type": "conference",
+    "title": "A Compact 45 V-to-54 kV Modular DC-DC Converter",
+    "authors": [
+      "S. Park",
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2019 IEEE 20th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2019,
+    "doi": "10.1109/COMPEL.2019.8769612",
+    "prior_work": true,
+    "pages": "1-7",
+    "citation_details": "Toronto, Canada, 2019, pp. 1-7",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C14",
+    "type": "conference",
+    "title": "MRI Compatible DC Modulator for an Envelope Tracking Transmitter",
+    "authors": [
+      "W. Braun",
+      "L. Gu",
+      "G. Scott",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2019 IEEE 20th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2019,
+    "doi": "10.1109/COMPEL.2019.8769668",
+    "prior_work": true,
+    "pages": "1-4",
+    "citation_details": "Toronto, Canada, 2019, pp. 1-4",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C13",
+    "type": "conference",
+    "title": "Cascode GaN/SiC Power Device for MHz Switching",
+    "authors": [
+      "J. Xu",
+      "L. Gu",
+      "Z. Ye",
+      "S. Kargarrazi",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2019 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+    "year": 2019,
+    "doi": "10.1109/APEC.2019.8721931",
+    "prior_work": true,
+    "pages": "2780-2785",
+    "citation_details": "Anaheim, CA, USA, 2019, pp. 2780-2785",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C12",
+    "type": "conference",
+    "title": "High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation",
+    "authors": [
+      "L. Gu",
+      "K. Surakitbovorn",
+      "G. Zulauf",
+      "S. Chakraborty",
+      "and J. Rivas-Davila"
+    ],
+    "venue": "2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2018,
+    "doi": "10.1109/COMPEL.2018.8459962",
+    "prior_work": true,
+    "award": "Best Paper Award",
+    "citation_details": "Padua, Italy, 2018",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C11",
+    "type": "conference",
+    "title": "A Wide Input Range Isolated Stacked Resonant Switched-Capacitor DC-DC Converter for High Conversion Ratios",
+    "authors": [
+      "Y. Li",
+      "L. Gu",
+      "A. Hariya",
+      "Y. Ishizuka",
+      "J. Rivas-Davila",
+      "S. Sanders"
+    ],
+    "venue": "2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2018,
+    "doi": "10.1109/COMPEL.2018.8459936",
+    "prior_work": true,
+    "citation_details": "Padua, Italy, 2018",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C10",
+    "type": "conference",
+    "title": "Effect of Class 2 Ceramic Capacitance Variations on Switched Capacitor and Resonant Switched Capacitor Converters",
+    "authors": [
+      "J. Xu",
+      "L. Gu",
+      "E. Hernandez",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2018,
+    "doi": "10.1109/COMPEL.2018.8460140",
+    "prior_work": true,
+    "citation_details": "Padua, Italy, 2018",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C9",
+    "type": "conference",
+    "title": "High-Frequency Resonant Converter with Synchronous Rectification for High Conversion Ratio and Variable Load Operation",
+    "authors": [
+      "L. Gu",
+      "K. Surakitbovorn",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2018 International Power Electronics Conference (IPEC-Niigata 2018 - ECCE ASIA)",
+    "year": 2018,
+    "doi": "10.23919/IPEC.2018.8507671",
+    "prior_work": true,
+    "citation_details": "Niigata, Japan, 2018",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C8",
+    "type": "conference",
+    "title": "60 V-to-35 kV input-parallel output-series DC-DC converter using multi-level class-DE rectifiers",
+    "authors": [
+      "S. Park",
+      "L. Gu",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2018 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+    "year": 2018,
+    "doi": "10.1109/APEC.2018.8341327",
+    "prior_work": true,
+    "pages": "2235-2241",
+    "citation_details": "San Antonio, TX, 2018, pp. 2235-2241",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C7",
+    "type": "conference",
+    "title": "Design of very-high-frequency synchronous resonant DC-DC converter for variable load operation",
+    "authors": [
+      "L. Gu",
+      "W. Liang",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
+    "year": 2017,
+    "doi": "10.1109/ECCE.2017.8096617",
+    "prior_work": true,
+    "pages": "3447-3454",
+    "citation_details": "Cincinnati, OH, USA, 2017, pp. 3447-3454",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C6",
+    "type": "conference",
+    "title": "A multi-resonant gate driver for Very-High-Frequency (VHF) resonant converters",
+    "authors": [
+      "L. Gu",
+      "W. Liang",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2017 IEEE 18th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2017,
+    "doi": "10.1109/COMPEL.2017.8013358",
+    "prior_work": true,
+    "pages": "1-7",
+    "citation_details": "Stanford, CA, 2017, pp. 1-7",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C5",
+    "type": "conference",
+    "title": "A compact RF power inverter with reduced EMI for a CubeSat electrothermal micro-thruster",
+    "authors": [
+      "W. Liang",
+      "X. Cui",
+      "L. Raymond",
+      "L. Gu",
+      "C. Charles",
+      "R. Boswell",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2017 IEEE 18th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2017,
+    "doi": "10.1109/COMPEL.2017.8013339",
+    "prior_work": true,
+    "pages": "1-6",
+    "citation_details": "Stanford, CA, 2017, pp. 1-6",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C4",
+    "type": "conference",
+    "title": "Universal line input power factor preregulator using VFX technique",
+    "authors": [
+      "L. Gu",
+      "W. Liang",
+      "M. Praglin",
+      "S. Chakraborty",
+      "J. Rivas-Davila"
+    ],
+    "venue": "2017 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+    "year": 2017,
+    "doi": "10.1109/APEC.2017.7930944",
+    "prior_work": true,
+    "pages": "1810-1815",
+    "citation_details": "Tampa, FL, 2017, pp. 1810-1815",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C3",
+    "type": "conference",
+    "title": "13.56 MHz high voltage multi-level resonant DC-DC converter",
+    "authors": [
+      "L. Raymond",
+      "W. Liang",
+      "L. Gu",
+      "J. R. Davila"
+    ],
+    "venue": "2015 IEEE 16th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2015,
+    "doi": "10.1109/COMPEL.2015.7236446",
+    "prior_work": true,
+    "pages": "1-8",
+    "award": "Best Paper Award",
+    "citation_details": "Vancouver, BC, 2015, pp. 1-8",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C2",
+    "type": "conference",
+    "title": "27.12MHz GaN Bi-directional resonant power converter",
+    "authors": [
+      "L. Gu",
+      "W. Liang",
+      "L. C. Raymond",
+      "J. Rivas"
+    ],
+    "venue": "2015 IEEE 16th Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "year": 2015,
+    "doi": "10.1109/COMPEL.2015.7236440",
+    "prior_work": true,
+    "pages": "1-7",
+    "citation_details": "Vancouver, BC, 2015, pp. 1-7",
+    "publication_kind": "conference paper"
+  },
+  {
+    "id": "C1",
+    "type": "conference",
+    "title": "27.12MHz GaN resonant power converter with PCB embedded resonant air core inductors and capacitors",
+    "authors": [
+      "W. Liang",
+      "L. Raymond",
+      "L. Gu",
+      "J. Rivas"
+    ],
+    "venue": "2015 IEEE Energy Conversion Congress and Exposition (ECCE)",
+    "year": 2015,
+    "doi": "10.1109/ECCE.2015.7310260",
+    "prior_work": true,
+    "pages": "4251-4256",
+    "citation_details": "Montreal, QC, 2015, pp. 4251-4256",
+    "publication_kind": "conference paper"
+  }
+]

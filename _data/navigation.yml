@@ -6,7 +6,7 @@ main:
     url: "/#selected-news"
 
   - title: "Publications"
-    url: "https://scholar.google.com/citations?user=sJf1iI8AAAAJ&hl=en"
+    url: "/publications/"
 
   - title: "CV"
     url: "https://drive.google.com/file/d/1l4plGIP7h7zVv8r1GCimaX5h2pmvueai/view?usp=sharing"

@@ -1,5 +1,11 @@
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
+### Publications page
+
+The `/publications/` page uses `_data/publications.json` and `_includes/publication-list.html`. Penn publications appear first. Set `prior_work: true` for work before Penn; `selected_earlier: true` and `selected_order` feature a paper under Selected Earlier Work. The remaining earlier entries stay collapsed. Google Scholar is linked at the top; citations use PDF and DOI links.
+
+Set `pdf_url` to a verified, publicly readable author-manuscript link in the Papers Drive folder, or an openly available PDF hosted by its publisher. Set `pdf_version` to `Published PDF` for the latter. Entries without a verified PDF show DOI links. Before uploading a PDF, check the author copy against the submitted or published version and include its publication citation, DOI, and required publisher notice. Use the publication year and paper title for PDF filenames; record IDs are internal maintenance keys. See [IEEE journal posting guidance](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/) and [IEEE conference posting guidance](https://conferences.ieeeauthorcenter.ieee.org/get-published/post-your-paper/).
+
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
