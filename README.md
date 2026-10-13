@@ -2,9 +2,9 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 ### Publications page
 
-The `/publications/` page uses `_data/publications.json` and `_includes/publication-list.html`. Penn publications appear first. Set `prior_work: true` for work before Penn; `selected_earlier: true` and `selected_order` feature a paper under Selected Earlier Work. The remaining earlier entries stay collapsed. Google Scholar is linked at the top; citations use PDF and DOI links.
+The `/publications/` page is maintained directly in `_pages/publications.md`. Edit the citations and PDF/DOI links in that one file. Selected earlier papers are listed separately; the rest of the earlier work stays inside the collapsible section. Conference citations omit page numbers; journal citations retain them.
 
-Set `pdf_url` to a verified, publicly readable author-manuscript link in the Papers Drive folder, or an openly available PDF hosted by its publisher. Set `pdf_version` to `Published PDF` for the latter. Entries without a verified PDF show DOI links. Before uploading a PDF, check the author copy against the submitted or published version and include its publication citation, DOI, and required publisher notice. Use the publication year and paper title for PDF filenames; record IDs are internal maintenance keys. See [IEEE journal posting guidance](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/) and [IEEE conference posting guidance](https://conferences.ieeeauthorcenter.ieee.org/get-published/post-your-paper/).
+Use publicly readable author-manuscript links or openly available publisher PDFs. Check the manuscript version and required publisher notice before posting a new PDF. Name PDFs with the publication year and paper title.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
